@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navbar Example</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <style>
+    /* Animation for the hamburger icon */
+    .hamburger-icon {
+      transition: transform 0.8s ease;
+    }
+    .hamburger-icon .line1 {
+      transition: transform 0.8s ease;
+    }
+
+    .hamburger-icon .line2 {
+      transition: transform 0.8s ease;
+    }
+
+    .hamburger-icon .line3 {
+      transition: transform 0.8s ease;
+    }
+
+    .hamburger-icon.open {
+      transform: rotate(90deg);
+    }
+
+    .hamburger-icon.open .line1 {
+      transform: rotate(-30deg) translate(-6px, 12px);
+      transition: transform 0.8s ease;
+    }
+
+    .hamburger-icon.open .line2 {
+      opacity: 0;
+      transition: transform 0.8s ease;
+    }
+
+    .hamburger-icon.open .line3 {
+      transform: rotate(30deg) translate(6px, -14px);
+      transition: transform 0.8s ease;
+    }
+    /* Footer with gradient background */
+.footer-gradient {
+  position: sticky;
+  bottom: 0;
+  height: 86px; /* Height for smaller screens */
+  background: linear-gradient(to bottom, rgba(59, 130, 246, 0) 0%, rgba(59, 130, 246, 0.5) 80%); /* Gradient from transparent to blue */
+}
+
+@media (min-width: 768px) {
+  .footer-gradient {
+    height: 200px; /* Height for medium and larger screens */
+  }
+}
+body {
+  background-color: #E0F7FA; /* Light blue */
+}
+
+  </style>
+</head>
+<body class="">
+
+  <!-- Navbar -->
+  <nav class="bg-white shadow-md rounded-md mt-4 mx-4 px-6 py-2 flex items-center justify-between">
+    <!-- Logo -->
+    <div class="flex items-center space-x-2">
+      <img src="ChatGPT Image 3 Apr 2025, 18.25.41.png" alt="Logo" class="h-10">
+    </div>
+
+    <!-- Hamburger Icon (visible on mobile) -->
+    <div class="block lg:hidden">
+      <button id="hamburger" class="text-blue-500 hamburger-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-6 w-6">
+          <path id="line1" class="line1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16"></path>
+          <path id="line2" class="line2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 12h16"></path>
+          <path id="line3" class="line3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 18h16"></path>
+        </svg>
+      </button>
+    </div>
+
+    <div class="hidden lg:flex space-x-6 text-blue-500 font-medium">
+        <a href="#" class="hover:text-blue-700">Home</a>
+        <a href="#" class="hover:text-blue-700">Uang kas</a>
+        <a href="https://drive.google.com/drive/folders/1LPBErcGCPF6NR_dYg4MfcB-t3XaxYVvn" class="hover:text-blue-700">Drive Kut"</a>
+        <a href="https://www.instagram.com/mhs.kutu_kutu/" class="hover:text-blue-700">IG Kut"</a>
+      </div>
+    </nav>
+  
+    <!-- Mobile Menu (hidden by default) -->
+    <div id="mobile-menu" class="lg:hidden fixed ml-auto mr-6 mt-[78px] w-[170px] h-[120px] inset-3 z-50 hidden">
+      <div class="text-center space-y-4 bg-white p-6 rounded-md shadow-lg">
+        <a href="#" class="block text-blue-500 font-medium hover:text-blue-700">Home</a>
+        <a href="#" class="block text-blue-500 font-medium hover:text-blue-700">Uang Kas</a>
+        <a href="https://drive.google.com/drive/folders/1LPBErcGCPF6NR_dYg4MfcB-t3XaxYVvn" class="block text-blue-500 font-medium hover:text-blue-700">Drive Kut"</a>
+        <a href="https://www.instagram.com/mhs.kutu_kutu/" class="block text-blue-500 font-medium hover:text-blue-700">IG Kut"</a>
+      </div>
+    </div>
+  
+  <!-- Grid Layout with Image Replacement -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 mt-4 mx-4">
+    <!-- Full-width Image -->
+    <div class="col-span-5 row-span-3">
+      <img src="ChatGPT Image 3 Apr 2025, 18.25.411.png" alt="Logo" class="w-full h-full lg:h-[512px] lg:object-contain object-cover">
+    </div>
+    
+    <div class="col-span-5 row-span-3 mt-8 flex flex-col justify-center items-center">
+        <a href="#" class="block text-blue-500 mb-6 text-center text-3xl font-bold hover:text-blue-700">Our Social Media</a>
+       <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/mhs.kutu_kutu/" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:undefinedpx;height:undefinedpx;max-height:100%; width:undefinedpx;"><div style="padding:16px;"> <a id="main_link" href="mhs.kutu_kutu/" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/mhs.kutu_kutu//" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Shared post</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;">Time</time></p></div></blockquote><script async src="https://www.instagram.com/embed.js"></script><div style="overflow: auto; position: absolute; height: 0pt; width: 0pt;"><a href="https://instaembedcode.com/">Instagram embed</a></div><script type="text/javascript" src="https://instaembedcode.com/in.js"></script></div><style>.boxes3{height:175px;width:153px;} #n img{max-height:none!important;max-width:none!important;background:none!important} #inst i{max-height:none!important;max-width:none!important;background:none!important}</style></div>
+    </div>
+    
+    <div class="col-span-5 row-span-3 mb-4 mt-8 flex flex-col justify-center items-center">
+          <a href="#" class="block text-blue-500 text-center text-3xl font-bold hover:text-blue-700">Gallery</a>
+    </div>
+  </div>
+  <div class="grid grid-cols-2 gap-4 ">
+   
+    <div>
+        <div style="left: 0; width: 100%; height: 250px; position: relative; padding-bottom: 75%;">
+            <iframe src="https://drive.google.com/file/d/1xRcwarODsrZY3l_Svy4V_zxb1PVJIgZ4/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe>
+        </div>
+        <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://drive.google.com/drive/folders/1wLU6WSt3shtbT54mPve7lEDQPmro8_R6?usp=drive_link" data-iframely-url="//iframely.net/Zr2ueR7"></a></div></div><script async src="//iframely.net/embed.js"></script>
+    </div>
+    <div>
+        <div style="left: 0; width: 100%; height: 250px; position: relative; padding-bottom: 75%;">
+            <iframe src="https://drive.google.com/file/d/12U7Cy9UkFb00TU8MLLs2u0TkvtZFZa_v/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe>
+        </div>
+        <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://drive.google.com/drive/folders/129ikKCbzc_BclxigQKhj0sFt6UeYCrFf?usp=drive_link" data-iframely-url="//iframely.net/WdtRayJ?_view=grid&_height=200"></a></div></div><script async src="//iframely.net/embed.js"></script>
+    </div>
+    <div>
+        <div style="left: 0; width: 100%; height: 250px; position: relative; padding-bottom: 75%;">
+            <iframe src="https://drive.google.com/file/d/1b6BOHxmD465TJEB4X7uWtdOALwIReeHZ/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe>
+        </div>
+        <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://drive.google.com/drive/folders/1doEO7cbw-OEO0e5ETr73nWzOsgQ0Z_Wq?usp=drive_link" data-iframely-url="//iframely.net/vkWE3iA?_view=grid"></a></div></div><script async src="//iframely.net/embed.js"></script>
+    </div>
+    <div>
+        <div style="left: 0; width: 100%; height: 250px; position: relative; padding-bottom: 75%;">
+            <iframe src="https://drive.google.com/file/d/1q2ZvjA2WfZhiPlNcWpBhkhM8zNw_k_cV/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe>
+        </div>
+        <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://drive.google.com/drive/folders/1JHEqOAWf2Qhpi6WOK9DdIRcrmmZNn2f_?usp=drive_link" data-iframely-url="//iframely.net/Uk6z2yL"></a></div></div><script async src="//iframely.net/embed.js"></script>
+    </div>
+    <div>
+        <div style="left: 0; width: 100%; height: 250px; position: relative; padding-bottom: 75%;">
+            <iframe src="https://drive.google.com/file/d/103lOdRiq5zo7ua2On16pa2sN8kSJRLnv/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe>
+        </div>
+        <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://drive.google.com/drive/folders/1-v_stftX-3kaolvBBOB9qjsyUr1ZYF2j?usp=drive_link" data-iframely-url="//iframely.net/z4FFlTU?_view=list"></a></div></div><script async src="//iframely.net/embed.js"></script>
+    </div>
+    <div>
+        <div style="left: 0; width: 100%; height: 250px; position: relative; padding-bottom: 75%;">
+            <iframe src="https://drive.google.com/file/d/1ADClCE6h941ETebjrVphaHSFbmZJ0cST/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe>
+        </div>
+        <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://drive.google.com/drive/folders/1WZZHcBaJIoAepzHoy9LN4SQ3heIBS4Lp?usp=drive_link" data-iframely-url="//iframely.net/nSOy50h?_view=grid"></a></div></div><script async src="//iframely.net/embed.js"></script>
+    </div>
+</div>
+
+     <!-- Footer with Gradient -->
+     <div class="footer-gradient">
+        <!-- Your footer content goes here -->
+      </div>
+  <script>
+    // JavaScript to handle hamburger menu toggle and animation
+    const hamburger = document.getElementById('hamburger');
+    const mobileMenu = document.getElementById('mobile-menu');
+  
+    // Toggle mobile menu visibility when hamburger is clicked
+    hamburger.addEventListener('click', (e) => {
+      e.stopPropagation(); // Prevents event from bubbling up to the body
+      hamburger.classList.toggle('open'); // Toggle animation class
+      mobileMenu.classList.toggle('hidden'); // Toggle mobile menu visibility
+    });
+  
+    // Close mobile menu when clicking anywhere outside of it
+    document.body.addEventListener('click', () => {
+      if (!mobileMenu.classList.contains('hidden')) {
+        mobileMenu.classList.add('hidden');
+        hamburger.classList.remove('open'); // Remove animation class when closed
+      }
+    });
+  
+    // Prevent the mobile menu from closing when clicking inside it
+    mobileMenu.addEventListener('click', (e) => {
+      e.stopPropagation(); // Prevents click event from reaching the body
+    });
+  </script>
+
+</body>
+</html>
