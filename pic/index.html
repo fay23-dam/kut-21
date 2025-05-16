@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Phone Number Search</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body class="bg-gray-100 min-h-screen p-8">
     <div class="max-w-4xl mx-auto">
@@ -26,8 +28,9 @@
                 <thead class="bg-gray-50">
                     <tr>
                         <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider whitespace-nowrap">Nama Lokasi</th>
-                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider whitespace-nowrap">Nomor PIC</th>
                         <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider whitespace-nowrap">Site ID</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider whitespace-nowrap">Nomor PIC</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider whitespace-nowrap">Aksi</th>
                     </tr>
                 </thead>
                 <tbody id="resultsBody" class="bg-white divide-y divide-gray-200">
@@ -45,10 +48,15 @@
     <script>
         let phoneData = [];
 
+        // Format nomor untuk WhatsApp
+        function formatWhatsAppNumber(phone) {
+            return phone.replace(/^0/, '62').replace(/-/g, '');
+        }
+
         // Fetch data dari file JSON
         async function loadData() {
             try {
-                const response = await fetch('https://kut-21.vercel.app/pic/pic.json');
+                const response = await fetch('pic.json');
                 phoneData = await response.json();
                 displayResults(phoneData);
             } catch (error) {
@@ -80,10 +88,28 @@
             if(data.length > 0) {
                 data.forEach(item => {
                     const row = document.createElement('tr');
+                    const whatsappMessage = encodeURIComponent(
+                        `Selamat siang Pak, Mohon Maaf menganggu waktunya, saya Saddam dari BAKTI Kominfo, izin bertanya pak mengenai wifi yang terpasang di ${item["CEK NAMA LOKASI"]} terdeteksi mati apakah ada kendalanya pak?`
+                    );
+                    const formattedNumber = formatWhatsAppNumber(item["NO PIC"]);
+
                     row.innerHTML = `
                         <td class="px-6 py-4 whitespace-nowrap">${item["CEK NAMA LOKASI"]}</td>
-                        <td class="px-6 py-4 whitespace-nowrap font-medium">${item["NO PIC"]}</td>
                         <td class="px-6 py-4 whitespace-nowrap">${item["CEK SITE ID"]}</td>
+                        <td class="px-6 py-4 whitespace-nowrap font-medium">${item["NO PIC"]}</td>
+                        <td class="px-6 py-4 whitespace-nowrap">
+                            <div class="flex gap-3">
+                                <a href="https://wa.me/${formattedNumber}?text=${whatsappMessage}" 
+                                   target="_blank"
+                                   class="text-green-600 hover:text-green-800 text-xl">
+                                    <i class="fab fa-whatsapp"></i>
+                                </a>
+                                <a href="tel:${item["NO PIC"].replace(/-/g, '')}" 
+                                   class="text-blue-600 hover:text-blue-800 text-xl">
+                                    <i class="fas fa-phone"></i>
+                                </a>
+                            </div>
+                        </td>
                     `;
                     resultsBody.appendChild(row);
                 });
