@@ -1,0 +1,3794 @@
+[
+    {
+        "NO": "1",
+        "CEK SITE ID": "AO17272245008206N",
+        "CEK NAMA LOKASI": "SMP NEGERI 8 SATU ATAP WASILE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081288737683"
+    },
+    {
+        "NO": "2",
+        "CEK SITE ID": "AM16926927988206N",
+        "CEK NAMA LOKASI": "KOMANDO RAYON MILITER 1505-03/MABA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082195134077"
+    },
+    {
+        "NO": "3",
+        "CEK SITE ID": "AM16926927978206N",
+        "CEK NAMA LOKASI": "POS 6 (WACI)",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081222750865"
+    },
+    {
+        "NO": "4",
+        "CEK SITE ID": "AM16567585938206N",
+        "CEK NAMA LOKASI": "SD NEGERI SILALAYANG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "085298025072"
+    },
+    {
+        "NO": "5",
+        "CEK SITE ID": "AM16224660928206N",
+        "CEK NAMA LOKASI": "SD NEGERI GAMESAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081344605120"
+    },
+    {
+        "NO": "6",
+        "CEK SITE ID": "AM16576336898206N",
+        "CEK NAMA LOKASI": "SMKS MARHAEN HALMAHERA TIMUR",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "085341762733"
+    },
+    {
+        "NO": "7",
+        "CEK SITE ID": "AM16224725958206N",
+        "CEK NAMA LOKASI": "SD INPRES DAKAINO 2",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081221511134"
+    },
+    {
+        "NO": "8",
+        "CEK SITE ID": "AM16224725918206N",
+        "CEK NAMA LOKASI": "SD INPRES AKEDAGA 1",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081285745028"
+    },
+    {
+        "NO": "9",
+        "CEK SITE ID": "AM16224725858206N",
+        "CEK NAMA LOKASI": "SD INPRES DOROLAMO 1",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081354971375"
+    },
+    {
+        "NO": "10",
+        "CEK SITE ID": "AM16224725758206N",
+        "CEK NAMA LOKASI": "SD NEGERI LOLOBATA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082192704944"
+    },
+    {
+        "NO": "11",
+        "CEK SITE ID": "AM16224725718206N",
+        "CEK NAMA LOKASI": "SD INPRES TELUK BULI 1",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082122438865"
+    },
+    {
+        "NO": "12",
+        "CEK SITE ID": "AM16224725698206N",
+        "CEK NAMA LOKASI": "SD INPRES CEMARA JAYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081241019108"
+    },
+    {
+        "NO": "13",
+        "CEK SITE ID": "AM16224725658206N",
+        "CEK NAMA LOKASI": "SD INPRES LOLOBATA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082260465558"
+    },
+    {
+        "NO": "14",
+        "CEK SITE ID": "AM16224725618206N",
+        "CEK NAMA LOKASI": "SD INPRES BEBSILI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082195771660"
+    },
+    {
+        "NO": "15",
+        "CEK SITE ID": "AM16224725598206N",
+        "CEK NAMA LOKASI": "SD INPRES TOBOINO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082286829121"
+    },
+    {
+        "NO": "16",
+        "CEK SITE ID": "AM16224725578206N",
+        "CEK NAMA LOKASI": "SD INPRES MIAF",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082122564982"
+    },
+    {
+        "NO": "17",
+        "CEK SITE ID": "AM16224725558206N",
+        "CEK NAMA LOKASI": "SD NEGERI DODAGA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "085344774055"
+    },
+    {
+        "NO": "18",
+        "CEK SITE ID": "AM16224725438206N",
+        "CEK NAMA LOKASI": "SD NEGERI BERINGIN JAYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "085280721407"
+    },
+    {
+        "NO": "19",
+        "CEK SITE ID": "AM16224725418206N",
+        "CEK NAMA LOKASI": "SD INPRES TELUK BULI 2",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081340703687"
+    },
+    {
+        "NO": "20",
+        "CEK SITE ID": "AM16224725398206N",
+        "CEK NAMA LOKASI": "SD NEGERI WASILEO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081268972991"
+    },
+    {
+        "NO": "21",
+        "CEK SITE ID": "AM16224725378206N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR INPRES AKEDAGA 2",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "085259143573"
+    },
+    {
+        "NO": "22",
+        "CEK SITE ID": "AM16224661548206N",
+        "CEK NAMA LOKASI": "SD NEGERI IGA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082137210321"
+    },
+    {
+        "NO": "23",
+        "CEK SITE ID": "AM16224661268206N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR INPRES NYAOLAKO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082138125014"
+    },
+    {
+        "NO": "24",
+        "CEK SITE ID": "AM16224661168206N",
+        "CEK NAMA LOKASI": "SD INPRES MARIMOI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082346013723"
+    },
+    {
+        "NO": "25",
+        "CEK SITE ID": "AM16224660808206N",
+        "CEK NAMA LOKASI": "SD GMIH BULI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082188978010"
+    },
+    {
+        "NO": "26",
+        "CEK SITE ID": "AM16224660528206N",
+        "CEK NAMA LOKASI": "SD INPRES KAKARAINO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081340193454"
+    },
+    {
+        "NO": "27",
+        "CEK SITE ID": "AM16224660128206N",
+        "CEK NAMA LOKASI": "SD NEGERI SUBAIM 2",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082187443281"
+    },
+    {
+        "NO": "28",
+        "CEK SITE ID": "AM16224659968206N",
+        "CEK NAMA LOKASI": "SD INPRES TEWIL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081386501617"
+    },
+    {
+        "NO": "29",
+        "CEK SITE ID": "AM16224659828206N",
+        "CEK NAMA LOKASI": "SD NEGERI YAWAL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081210685224"
+    },
+    {
+        "NO": "30",
+        "CEK SITE ID": "AM16224659808206N",
+        "CEK NAMA LOKASI": "SD INPRES NANAS",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082343031790"
+    },
+    {
+        "NO": "31",
+        "CEK SITE ID": "AM16577454188206N",
+        "CEK NAMA LOKASI": "RA ALFARABI NUSA AMBU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081340837081 "
+    },
+    {
+        "NO": "32",
+        "CEK SITE ID": "AM16576946428206N",
+        "CEK NAMA LOKASI": "MADRASAH ALIYAH SWASTA NAHDLATUL WATHAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081270908503"
+    },
+    {
+        "NO": "33",
+        "CEK SITE ID": "AM16665868908206N",
+        "CEK NAMA LOKASI": "KANTOR KEPALA DESA GULAPAPO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "085354749475"
+    },
+    {
+        "NO": "34",
+        "CEK SITE ID": "AM16665868848206N",
+        "CEK NAMA LOKASI": "GpdI IMANUEL DESA BUKUTIO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081244595517"
+    },
+    {
+        "NO": "35",
+        "CEK SITE ID": "AM16665868558206N",
+        "CEK NAMA LOKASI": "KANTOR PAC PDIP WASILE TIMUR",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081342343157"
+    },
+    {
+        "NO": "36",
+        "CEK SITE ID": "AM16665868398206N",
+        "CEK NAMA LOKASI": "SD INPRES 1 BINAGARA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "085338365897"
+    },
+    {
+        "NO": "37",
+        "CEK SITE ID": "AO17271097808206N",
+        "CEK NAMA LOKASI": "GEREJA \"BAHTERA INJIL\" HATETABAKO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082197835419"
+    },
+    {
+        "NO": "38",
+        "CEK SITE ID": "AM16224660388206N",
+        "CEK NAMA LOKASI": "SD NEGERI HATETABAKO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081355758540"
+    },
+    {
+        "NO": "39",
+        "CEK SITE ID": "AM16576733308206N",
+        "CEK NAMA LOKASI": "SD INPRES BOLOLO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082349075915"
+    },
+    {
+        "NO": "40",
+        "CEK SITE ID": "AM16576573968206N",
+        "CEK NAMA LOKASI": "SMP NEGERI 9 MABA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "085145384082"
+    },
+    {
+        "NO": "41",
+        "CEK SITE ID": "AM16576162748206N",
+        "CEK NAMA LOKASI": "SD INPRES PEKAULANG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "081312063817"
+    },
+    {
+        "NO": "42",
+        "CEK SITE ID": "AM16568288128206N",
+        "CEK NAMA LOKASI": "SMP NEGERI 8 MABA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TIMUR",
+        "NO PIC": "082195629366"
+    },
+    {
+        "NO": "43",
+        "CEK SITE ID": "AO16224647498202N",
+        "CEK NAMA LOKASI": "KANTOR DESA BOBANE JAYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081356031251"
+    },
+    {
+        "NO": "44",
+        "CEK SITE ID": "AO16224647478202N",
+        "CEK NAMA LOKASI": "SD NEGERI UMIYAL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081358383259"
+    },
+    {
+        "NO": "45",
+        "CEK SITE ID": "AO16224647358202N",
+        "CEK NAMA LOKASI": "SD NEGERI MADOLAFI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081354642618"
+    },
+    {
+        "NO": "46",
+        "CEK SITE ID": "AO16224647298202N",
+        "CEK NAMA LOKASI": "KANTOR DESA PENITI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "0852-5698-9233"
+    },
+    {
+        "NO": "47",
+        "CEK SITE ID": "AO16224648138202N",
+        "CEK NAMA LOKASI": "SMP MUHAMMADIYAH 1 HALMAHERA TENGAH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081289510232"
+    },
+    {
+        "NO": "48",
+        "CEK SITE ID": "AO16224647258202N",
+        "CEK NAMA LOKASI": "PUSKESMAS SAGEA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "085242186994"
+    },
+    {
+        "NO": "49",
+        "CEK SITE ID": "AO16224647218202N",
+        "CEK NAMA LOKASI": "SD NEGERI 1 TRANS WALEH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081315934344"
+    },
+    {
+        "NO": "50",
+        "CEK SITE ID": "AO16224647198202N",
+        "CEK NAMA LOKASI": "SMP NEGERI 24 HALMAHERA TENGAH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082187457134"
+    },
+    {
+        "NO": "51",
+        "CEK SITE ID": "AO16224647098202N",
+        "CEK NAMA LOKASI": "SD INPRES LELILEF",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082193518673"
+    },
+    {
+        "NO": "52",
+        "CEK SITE ID": "AO16224647078202N",
+        "CEK NAMA LOKASI": "SD NEGERI SEPOH SARONO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081244995251"
+    },
+    {
+        "NO": "53",
+        "CEK SITE ID": "AO16224646898202N",
+        "CEK NAMA LOKASI": "SMP NEGERI SATAP DOTTE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "085218568181"
+    },
+    {
+        "NO": "54",
+        "CEK SITE ID": "AO16224646858202N",
+        "CEK NAMA LOKASI": "SD NEGERI SP 2 TRANS WALEH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081340701167"
+    },
+    {
+        "NO": "55",
+        "CEK SITE ID": "AO16224646798202N",
+        "CEK NAMA LOKASI": "SD INPRES KOBE KULO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "085340106500"
+    },
+    {
+        "NO": "56",
+        "CEK SITE ID": "AO16224646538202N",
+        "CEK NAMA LOKASI": "SD NEGERI 4 WEDA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081243728727"
+    },
+    {
+        "NO": "57",
+        "CEK SITE ID": "AO16224646478202N",
+        "CEK NAMA LOKASI": "SD NEGERI GEMAF",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081391628735"
+    },
+    {
+        "NO": "58",
+        "CEK SITE ID": "AO16224646338202N",
+        "CEK NAMA LOKASI": "SD NEGERI 2 SAGEA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082110699774"
+    },
+    {
+        "NO": "59",
+        "CEK SITE ID": "AO16224646318202N",
+        "CEK NAMA LOKASI": "MADRASAH IBTIDAIYAH NEGERI 1",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "‪082194970572"
+    },
+    {
+        "NO": "60",
+        "CEK SITE ID": "AO16224646258202N",
+        "CEK NAMA LOKASI": "KANTOR DESA KOTALO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081351767778"
+    },
+    {
+        "NO": "61",
+        "CEK SITE ID": "AO16224646018202N",
+        "CEK NAMA LOKASI": "SD NEGERI 3 WEDA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082190173689"
+    },
+    {
+        "NO": "62",
+        "CEK SITE ID": "AO16224645938202N",
+        "CEK NAMA LOKASI": "SD NEGERI 1 KLUTING JAYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081229984872"
+    },
+    {
+        "NO": "63",
+        "CEK SITE ID": "AO16224645798202N",
+        "CEK NAMA LOKASI": "KANTOR DESA YEISOWO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082271334521"
+    },
+    {
+        "NO": "64",
+        "CEK SITE ID": "AO16224645698202N",
+        "CEK NAMA LOKASI": "KANTOR DESA MOREALA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082296684913"
+    },
+    {
+        "NO": "65",
+        "CEK SITE ID": "AO16224645658202N",
+        "CEK NAMA LOKASI": "SD NEGERI 1 WEDA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081340088533"
+    },
+    {
+        "NO": "66",
+        "CEK SITE ID": "AO16224645638202N",
+        "CEK NAMA LOKASI": "SD NEGERI KAPALEO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082189431916"
+    },
+    {
+        "NO": "67",
+        "CEK SITE ID": "AO16224645538202N",
+        "CEK NAMA LOKASI": "SD NEGERI 2 WAIRORO INDAH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081341116411"
+    },
+    {
+        "NO": "68",
+        "CEK SITE ID": "AO16224645398202N",
+        "CEK NAMA LOKASI": "KANTOR DESA BAKA JAYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082290263177"
+    },
+    {
+        "NO": "69",
+        "CEK SITE ID": "AO16224645278202N",
+        "CEK NAMA LOKASI": "SD NEGERI SOSOWOMO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082248486290"
+    },
+    {
+        "NO": "70",
+        "CEK SITE ID": "AO16224645198202N",
+        "CEK NAMA LOKASI": "KANTOR DESA SAKAM",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "085396964654"
+    },
+    {
+        "NO": "71",
+        "CEK SITE ID": "AO16224645178202N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR NEGERI PATANI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "085343525172"
+    },
+    {
+        "NO": "72",
+        "CEK SITE ID": "AO16224645158202N",
+        "CEK NAMA LOKASI": "KANTOR DESA YONDELIU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082343326911"
+    },
+    {
+        "NO": "73",
+        "CEK SITE ID": "AM16224742528202N",
+        "CEK NAMA LOKASI": "SMA NEGERI 3 HALMAHERA TENGAH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082226745693"
+    },
+    {
+        "NO": "74",
+        "CEK SITE ID": "AM16224742508202N",
+        "CEK NAMA LOKASI": "SMP NEGERI 25 HALTENG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082291204551"
+    },
+    {
+        "NO": "75",
+        "CEK SITE ID": "AM16224742448202N",
+        "CEK NAMA LOKASI": "SMK NEGERI 9 HALMAHERA TENGAH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081314997499"
+    },
+    {
+        "NO": "76",
+        "CEK SITE ID": "AM16224659778202N",
+        "CEK NAMA LOKASI": "SMA NEGERI 6 HALTENG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082187756921"
+    },
+    {
+        "NO": "77",
+        "CEK SITE ID": "AO16224647958202N",
+        "CEK NAMA LOKASI": "KANTOR DESA BILIFITU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "085281994849"
+    },
+    {
+        "NO": "78",
+        "CEK SITE ID": "AM16224659338202N",
+        "CEK NAMA LOKASI": "SMK NEGERI 4 HALMAHERA TENGAH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "085338717783"
+    },
+    {
+        "NO": "79",
+        "CEK SITE ID": "AM16902768178208N",
+        "CEK NAMA LOKASI": "MADRASAH IBTIDAIYAH SWASTA GALEBO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082112141200"
+    },
+    {
+        "NO": "80",
+        "CEK SITE ID": "AM16577454098208N",
+        "CEK NAMA LOKASI": "RA NURUL FATONA TODOLI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085282921665"
+    },
+    {
+        "NO": "81",
+        "CEK SITE ID": "AM16576946688208N",
+        "CEK NAMA LOKASI": "MADRASAH ALIYAH NURUL ILMI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082169696659"
+    },
+    {
+        "NO": "82",
+        "CEK SITE ID": "AM16576946668208N",
+        "CEK NAMA LOKASI": "MADRASAH ALIYAH MUTMAINNAH LIMBO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082321204031"
+    },
+    {
+        "NO": "83",
+        "CEK SITE ID": "AM16576946618208N",
+        "CEK NAMA LOKASI": "MADRASAH ALIYAH NEGERI PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085343913302"
+    },
+    {
+        "NO": "84",
+        "CEK SITE ID": "AM16576862698208N",
+        "CEK NAMA LOKASI": "MADRASAH TSANAWIYAH (MTS) KRAMAT",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081340320595"
+    },
+    {
+        "NO": "85",
+        "CEK SITE ID": "AM16576862648208N",
+        "CEK NAMA LOKASI": "MTS YPPT LEDE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081241866199"
+    },
+    {
+        "NO": "86",
+        "CEK SITE ID": "AM16665869008208N",
+        "CEK NAMA LOKASI": "SMA NEGERI 9 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081280390392"
+    },
+    {
+        "NO": "87",
+        "CEK SITE ID": "AM16568585408208N",
+        "CEK NAMA LOKASI": "SD NEGERI SAMPE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082188873858"
+    },
+    {
+        "NO": "88",
+        "CEK SITE ID": "AM16566728158208N",
+        "CEK NAMA LOKASI": "SMA NEGERI 10 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081311907993"
+    },
+    {
+        "NO": "89",
+        "CEK SITE ID": "AM16224773068208N",
+        "CEK NAMA LOKASI": "DINAS PENDIDIKAN & KEBUDAYAAN CABANG DINAS KAB PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081242036139"
+    },
+    {
+        "NO": "90",
+        "CEK SITE ID": "AM16224773048208N",
+        "CEK NAMA LOKASI": "KANTOR KECAMATAN TALIABU BARAT",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082187587121"
+    },
+    {
+        "NO": "91",
+        "CEK SITE ID": "AM16567598988208N",
+        "CEK NAMA LOKASI": "SMK NEGERI 4 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081243243241"
+    },
+    {
+        "NO": "92",
+        "CEK SITE ID": "AM16224731198208N",
+        "CEK NAMA LOKASI": "POLINDES DESA LOHO BUBBA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085247208077"
+    },
+    {
+        "NO": "93",
+        "CEK SITE ID": "AM16224731178208N",
+        "CEK NAMA LOKASI": "KANTOR DESA LEDE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082393786864"
+    },
+    {
+        "NO": "94",
+        "CEK SITE ID": "AM16224731118208N",
+        "CEK NAMA LOKASI": "SD NEGERI PANCORAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082395978105"
+    },
+    {
+        "NO": "95",
+        "CEK SITE ID": "AM16224731098208N",
+        "CEK NAMA LOKASI": "KANTOR PEMERINTAHAN KECAMATAN TALIABU SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082122255456"
+    },
+    {
+        "NO": "96",
+        "CEK SITE ID": "AM16224731058208N",
+        "CEK NAMA LOKASI": "SD NEGERI PANDASAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081391078132"
+    },
+    {
+        "NO": "97",
+        "CEK SITE ID": "AM16224731038208N",
+        "CEK NAMA LOKASI": "SD INPRES 2 LEDE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085341992158"
+    },
+    {
+        "NO": "98",
+        "CEK SITE ID": "AM16224730958208N",
+        "CEK NAMA LOKASI": "SD INPRES 1 KRAMAT",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081354902909"
+    },
+    {
+        "NO": "99",
+        "CEK SITE ID": "AM16224730778208N",
+        "CEK NAMA LOKASI": "SD INPRES 1 LEDE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082238570496"
+    },
+    {
+        "NO": "100",
+        "CEK SITE ID": "AM16208511318208N",
+        "CEK NAMA LOKASI": "PUSKESMAS GELA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081355462451"
+    },
+    {
+        "NO": "101",
+        "CEK SITE ID": "AM16208511278208N",
+        "CEK NAMA LOKASI": "PUSKESMAS PENCADO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085255519901"
+    },
+    {
+        "NO": "102",
+        "CEK SITE ID": "AM16199408978208N",
+        "CEK NAMA LOKASI": "SD INPRES TALO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081244889653"
+    },
+    {
+        "NO": "103",
+        "CEK SITE ID": "AM16199408968208N",
+        "CEK NAMA LOKASI": "KANTOR DESA TALO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082396126667"
+    },
+    {
+        "NO": "104",
+        "CEK SITE ID": "AM16926928488202N",
+        "CEK NAMA LOKASI": "POS AL PULAU GEBE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082135069543"
+    },
+    {
+        "NO": "105",
+        "CEK SITE ID": "AO16360957948203N",
+        "CEK NAMA LOKASI": "SD INPRES TERU-TERU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "081354382812"
+    },
+    {
+        "NO": "106",
+        "CEK SITE ID": "AO16224645298202N",
+        "CEK NAMA LOKASI": "KANTOR DESA NUSLIKO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081347630485"
+    },
+    {
+        "NO": "107",
+        "CEK SITE ID": "AM16926927998202N",
+        "CEK NAMA LOKASI": "POS SATGAS NURSIFA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082398143978"
+    },
+    {
+        "NO": "108",
+        "CEK SITE ID": "AO16224645418202N",
+        "CEK NAMA LOKASI": "KANTOR DESA WERE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081245948801"
+    },
+    {
+        "NO": "109",
+        "CEK SITE ID": "AM16926927978202N",
+        "CEK NAMA LOKASI": "KOMANDO RAYON MILITER 1512-01/WEDA - POS RAMIL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081341527120"
+    },
+    {
+        "NO": "110",
+        "CEK SITE ID": "AM16576996548202N",
+        "CEK NAMA LOKASI": "UPTD PUSKESMAS RAWAT INAP GEBE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081244435843"
+    },
+    {
+        "NO": "111",
+        "CEK SITE ID": "AM16576996528202N",
+        "CEK NAMA LOKASI": "UPTD PUSKESMAS RAWAT INAP TEPELEO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082117703726"
+    },
+    {
+        "NO": "112",
+        "CEK SITE ID": "AM16576946018202N",
+        "CEK NAMA LOKASI": "MADRASAH ALIYAH AL-MA'ARIF BANEMO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082268037054"
+    },
+    {
+        "NO": "113",
+        "CEK SITE ID": "AM16576869378202N",
+        "CEK NAMA LOKASI": "MADRASAH ALIYAH NEGERI 2 HAL-TENG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081240244272"
+    },
+    {
+        "NO": "114",
+        "CEK SITE ID": "AM16665869208202N",
+        "CEK NAMA LOKASI": "KANTOR DESA MALIFORO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082236911671"
+    },
+    {
+        "NO": "115",
+        "CEK SITE ID": "AO16558617768272N",
+        "CEK NAMA LOKASI": "SD NEGERI 1 MAIDI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KOTA TIDORE KEPULAUAN",
+        "NO PIC": "081347346089"
+    },
+    {
+        "NO": "116",
+        "CEK SITE ID": "AO16224648058202N",
+        "CEK NAMA LOKASI": "UPTD PUSKESMAS DAMULI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081374876711"
+    },
+    {
+        "NO": "117",
+        "CEK SITE ID": "AO16224648038202N",
+        "CEK NAMA LOKASI": "KANTOR DESA UMIYAL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "082131126179"
+    },
+    {
+        "NO": "118",
+        "CEK SITE ID": "AO16224647758202N",
+        "CEK NAMA LOKASI": "UPTD PUSKESMAS RAWAT INAP BANEMO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081354547608"
+    },
+    {
+        "NO": "119",
+        "CEK SITE ID": "AO16224645838202N",
+        "CEK NAMA LOKASI": "KANTOR DESA SANAFI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081340891541"
+    },
+    {
+        "NO": "120",
+        "CEK SITE ID": "AM16224742588202N",
+        "CEK NAMA LOKASI": "SMK NEGERI 6 HALMAHERA TENGAH",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA TENGAH",
+        "NO PIC": "081241649373"
+    },
+    {
+        "NO": "121",
+        "CEK SITE ID": "AM17276601948207N",
+        "CEK NAMA LOKASI": "BASE OPS LANUD LEO WATTIMENA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "085353989178"
+    },
+    {
+        "NO": "122",
+        "CEK SITE ID": "AM17276678728207N",
+        "CEK NAMA LOKASI": "KANTOR KECAMATAN MOROTAI JAYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "085343568822"
+    },
+    {
+        "NO": "123",
+        "CEK SITE ID": "AM17276678708207N",
+        "CEK NAMA LOKASI": "KOPERASI NELAYAN \"TUNA PASIFIK\"",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "089242914853"
+    },
+    {
+        "NO": "124",
+        "CEK SITE ID": "AO16360958038203N",
+        "CEK NAMA LOKASI": "SD GMIH POSI-POSI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "085219710627"
+    },
+    {
+        "NO": "125",
+        "CEK SITE ID": "AM16666055818207N",
+        "CEK NAMA LOKASI": "SD UNGGULAN 4 PULAU MOROTAI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "081285129907"
+    },
+    {
+        "NO": "126",
+        "CEK SITE ID": "AM16665869068207N",
+        "CEK NAMA LOKASI": "SD NEGERI UNGGULAN 3 PULAU MOROTAI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "085395764053"
+    },
+    {
+        "NO": "127",
+        "CEK SITE ID": "AM17276678718207N",
+        "CEK NAMA LOKASI": "KANTOR DESA SAMBIKI TUA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "08124500822"
+    },
+    {
+        "NO": "128",
+        "CEK SITE ID": "AM16665868478207N",
+        "CEK NAMA LOKASI": "GEREJA MASEHI INJIL DI HALMAHERA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "082260973017"
+    },
+    {
+        "NO": "129",
+        "CEK SITE ID": "AM16665868448207N",
+        "CEK NAMA LOKASI": "GEREJA PANTEKOSTA di INDONESIA \"NARWASTU\" BUHO-BUHO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "082189730558"
+    },
+    {
+        "NO": "130",
+        "CEK SITE ID": "AM16665867568207N",
+        "CEK NAMA LOKASI": "KANTOR DESA GAMLAMO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "081319112621"
+    },
+    {
+        "NO": "131",
+        "CEK SITE ID": "AM16576569438272N",
+        "CEK NAMA LOKASI": "SD NEGERI TUTUHU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": " 082311480692"
+    },
+    {
+        "NO": "132",
+        "CEK SITE ID": "AM16576369478272N",
+        "CEK NAMA LOKASI": "SMA NEGERI 6 PULAU MOROTAI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "081355851865"
+    },
+    {
+        "NO": "133",
+        "CEK SITE ID": "AM16576328438272N",
+        "CEK NAMA LOKASI": "SD IT SAHABAT CENDIKIA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "081266240418"
+    },
+    {
+        "NO": "134",
+        "CEK SITE ID": "AM16576211168272N",
+        "CEK NAMA LOKASI": "SD INPRES RAJA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU MOROTAI",
+        "NO PIC": "085342560173"
+    },
+    {
+        "NO": "135",
+        "CEK SITE ID": "AO16360957828203N",
+        "CEK NAMA LOKASI": "SD GMIH IGO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "082259265949"
+    },
+    {
+        "NO": "136",
+        "CEK SITE ID": "AO16360957758203N",
+        "CEK NAMA LOKASI": "SD NEGERI TUTUMALOLEO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "081244306003"
+    },
+    {
+        "NO": "137",
+        "CEK SITE ID": "AO16360957748203N",
+        "CEK NAMA LOKASI": "SD GMIH KAPA-KAPA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "081249530342"
+    },
+    {
+        "NO": "138",
+        "CEK SITE ID": "AO16360957738203N",
+        "CEK NAMA LOKASI": "SD NEGERI PACAO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "‪081341052769"
+    },
+    {
+        "NO": "139",
+        "CEK SITE ID": "AO16360957618203N",
+        "CEK NAMA LOKASI": "SD INPRES DODOWO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "082344845139"
+    },
+    {
+        "NO": "140",
+        "CEK SITE ID": "AO16360957588203N",
+        "CEK NAMA LOKASI": "SD GMIH SUPU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "081340477313"
+    },
+    {
+        "NO": "141",
+        "CEK SITE ID": "AO16351319808203N",
+        "CEK NAMA LOKASI": "KANTOR CAMAT GALELA UTARA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "085311812276"
+    },
+    {
+        "NO": "142",
+        "CEK SITE ID": "AO16224747628203N",
+        "CEK NAMA LOKASI": "KANTOR KECAMATAN LOLODA KEPULAUAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "081313120065"
+    },
+    {
+        "NO": "143",
+        "CEK SITE ID": "AO16360957918203N",
+        "CEK NAMA LOKASI": "SD NEGERI GISI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA UTARA",
+        "NO PIC": "081242908152"
+    },
+    {
+        "NO": "144",
+        "CEK SITE ID": "AM16665869988204N",
+        "CEK NAMA LOKASI": "SD NEGERI 139 HALSEL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082218330104"
+    },
+    {
+        "NO": "145",
+        "CEK SITE ID": "AO16224638208204N",
+        "CEK NAMA LOKASI": "SD NEGERI 103 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082218351217"
+    },
+    {
+        "NO": "146",
+        "CEK SITE ID": "AM16951038238204N",
+        "CEK NAMA LOKASI": "UPTD PUSKESMAS MADAPOLO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082347210165"
+    },
+    {
+        "NO": "147",
+        "CEK SITE ID": "AM16567375678204N",
+        "CEK NAMA LOKASI": "SD NEGERI 61 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081340564275"
+    },
+    {
+        "NO": "148",
+        "CEK SITE ID": "AM16577718718204N",
+        "CEK NAMA LOKASI": "MADRASAH IBTIDAIYAH SWASTA DIAKUI MANO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081219970365"
+    },
+    {
+        "NO": "149",
+        "CEK SITE ID": "AM16577471448204N",
+        "CEK NAMA LOKASI": "MADRASAH IBTIDAIYAH BATUTAGA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082249984078"
+    },
+    {
+        "NO": "150",
+        "CEK SITE ID": "AM16576861608204N",
+        "CEK NAMA LOKASI": "MADRASAH TSANAWIYAH GORO-GORO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081356419747"
+    },
+    {
+        "NO": "151",
+        "CEK SITE ID": "AM16576861418204N",
+        "CEK NAMA LOKASI": "MTSS ARRAHMAN JIKOTAMO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081244458167"
+    },
+    {
+        "NO": "152",
+        "CEK SITE ID": "AM16576861348204N",
+        "CEK NAMA LOKASI": "MTS SWASTA AL AQABAH MOLOKU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085398531335"
+    },
+    {
+        "NO": "153",
+        "CEK SITE ID": "AM16576861208204N",
+        "CEK NAMA LOKASI": "MADRASAH TSANAWIYAH ALKHAIRAT MADAPOLO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082248007047"
+    },
+    {
+        "NO": "154",
+        "CEK SITE ID": "AM16666055728204N",
+        "CEK NAMA LOKASI": "KOPERASI NELAYAN MASE MASEA BERSAMA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082297755906"
+    },
+    {
+        "NO": "155",
+        "CEK SITE ID": "AM16665870068204N",
+        "CEK NAMA LOKASI": "GEREJA GSI DESA AIR MANGGA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081243510616"
+    },
+    {
+        "NO": "156",
+        "CEK SITE ID": "AM16665870048204N",
+        "CEK NAMA LOKASI": "SMA NEGERI 31 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085342213198"
+    },
+    {
+        "NO": "157",
+        "CEK SITE ID": "AM16576450108204N",
+        "CEK NAMA LOKASI": "SMA S NURUL HASAN TAWA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082194727572"
+    },
+    {
+        "NO": "158",
+        "CEK SITE ID": "AM16569216338204N",
+        "CEK NAMA LOKASI": "SD NEGERI 208 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081341622529"
+    },
+    {
+        "NO": "159",
+        "CEK SITE ID": "AM16568861388204N",
+        "CEK NAMA LOKASI": "SD NEGERI 33 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082349311090"
+    },
+    {
+        "NO": "160",
+        "CEK SITE ID": "AM16568784838204N",
+        "CEK NAMA LOKASI": "SD NEGERI 199 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081356754604"
+    },
+    {
+        "NO": "161",
+        "CEK SITE ID": "AM16568455108204N",
+        "CEK NAMA LOKASI": "SD NEGERI 230 HALSEL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082188487535"
+    },
+    {
+        "NO": "162",
+        "CEK SITE ID": "AM16567866338204N",
+        "CEK NAMA LOKASI": "SD NEGERI 77 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085314157142"
+    },
+    {
+        "NO": "163",
+        "CEK SITE ID": "AM16567797308204N",
+        "CEK NAMA LOKASI": "SMA NURUL HASAN SAMBIKI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082267846488"
+    },
+    {
+        "NO": "164",
+        "CEK SITE ID": "AM16567754588204N",
+        "CEK NAMA LOKASI": "SMP NURUL HASAN TAWA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081368424995"
+    },
+    {
+        "NO": "165",
+        "CEK SITE ID": "AM16567533108204N",
+        "CEK NAMA LOKASI": "SD NEGERI 127 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085255216597"
+    },
+    {
+        "NO": "166",
+        "CEK SITE ID": "AM16567270948204N",
+        "CEK NAMA LOKASI": "SD NEGERI 140 HALSEL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082349530196"
+    },
+    {
+        "NO": "167",
+        "CEK SITE ID": "AO16558617828272N",
+        "CEK NAMA LOKASI": "SD NEGERI NUKU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KOTA TIDORE KEPULAUAN",
+        "NO PIC": "082188231340"
+    },
+    {
+        "NO": "168",
+        "CEK SITE ID": "AO16261242028204N",
+        "CEK NAMA LOKASI": "KANTOR DESA KUKUPANG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081356871991"
+    },
+    {
+        "NO": "169",
+        "CEK SITE ID": "AO16261241908204N",
+        "CEK NAMA LOKASI": "POLINDES GALALA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085397519062"
+    },
+    {
+        "NO": "170",
+        "CEK SITE ID": "AO16261241898204N",
+        "CEK NAMA LOKASI": "KANTOR DESA GALALA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085395632925"
+    },
+    {
+        "NO": "171",
+        "CEK SITE ID": "AO16261241828204N",
+        "CEK NAMA LOKASI": "SD NEGERI 169 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081342805776"
+    },
+    {
+        "NO": "172",
+        "CEK SITE ID": "AO16261241818204N",
+        "CEK NAMA LOKASI": "SD NEGERI 131 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082252829430"
+    },
+    {
+        "NO": "173",
+        "CEK SITE ID": "AO16261241788204N",
+        "CEK NAMA LOKASI": "SMA NEGERI 36 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082196901355"
+    },
+    {
+        "NO": "174",
+        "CEK SITE ID": "AO16261241768204N",
+        "CEK NAMA LOKASI": "SMA NEGERI 21 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082191192868"
+    },
+    {
+        "NO": "175",
+        "CEK SITE ID": "AO16261241698204N",
+        "CEK NAMA LOKASI": "KANTOR CAMAT KASIRUTA BARAT",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082298864526"
+    },
+    {
+        "NO": "176",
+        "CEK SITE ID": "AO16261241678204N",
+        "CEK NAMA LOKASI": "SD NEGERI 260 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "083866789668"
+    },
+    {
+        "NO": "177",
+        "CEK SITE ID": "AO16261241598204N",
+        "CEK NAMA LOKASI": "SMP NEGERI 52 SATAP HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082190811320"
+    },
+    {
+        "NO": "178",
+        "CEK SITE ID": "AO16261241528204N",
+        "CEK NAMA LOKASI": "SD NEGERI 119 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085366629172"
+    },
+    {
+        "NO": "179",
+        "CEK SITE ID": "AO16261241508204N",
+        "CEK NAMA LOKASI": "KANTOR KEPALA DESA JERET",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085336480470"
+    },
+    {
+        "NO": "180",
+        "CEK SITE ID": "AO16261241228204N",
+        "CEK NAMA LOKASI": "KANTOR DESA TABALEMA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082325236107"
+    },
+    {
+        "NO": "181",
+        "CEK SITE ID": "AO16261241208204N",
+        "CEK NAMA LOKASI": "SMA PEDULI BANGSA WARINGI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082284764261"
+    },
+    {
+        "NO": "182",
+        "CEK SITE ID": "AO16261241168204N",
+        "CEK NAMA LOKASI": "SD NEGERI 116 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082195609621"
+    },
+    {
+        "NO": "183",
+        "CEK SITE ID": "AO16261241158204N",
+        "CEK NAMA LOKASI": "KANTOR DESA KASIRUTA DALAM",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "087837846925"
+    },
+    {
+        "NO": "184",
+        "CEK SITE ID": "AO16261241128204N",
+        "CEK NAMA LOKASI": "SD NEGERI 145 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082188252710"
+    },
+    {
+        "NO": "185",
+        "CEK SITE ID": "AO16261241108204N",
+        "CEK NAMA LOKASI": "POLINDES DESA TABALEMA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082290101148"
+    },
+    {
+        "NO": "186",
+        "CEK SITE ID": "AO16261241088204N",
+        "CEK NAMA LOKASI": "SMP NEGERI 67 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085352707709"
+    },
+    {
+        "NO": "187",
+        "CEK SITE ID": "AO16261241068204N",
+        "CEK NAMA LOKASI": "SMP LPM PEMBANGUNAN BISORI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081289771656"
+    },
+    {
+        "NO": "188",
+        "CEK SITE ID": "AO16261241048204N",
+        "CEK NAMA LOKASI": "POLINDES YOYOK",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081275084682"
+    },
+    {
+        "NO": "189",
+        "CEK SITE ID": "AO16261240998204N",
+        "CEK NAMA LOKASI": "SD NEGERI 163 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082261940244"
+    },
+    {
+        "NO": "190",
+        "CEK SITE ID": "AO16261240958204N",
+        "CEK NAMA LOKASI": "SD NEGERI 218 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081320627334"
+    },
+    {
+        "NO": "191",
+        "CEK SITE ID": "AO16261240948204N",
+        "CEK NAMA LOKASI": "SMA NEGERI 34 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082395805511"
+    },
+    {
+        "NO": "192",
+        "CEK SITE ID": "AO16261240928204N",
+        "CEK NAMA LOKASI": "SMA ISLAM TERPADU INSAN KAMIL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082189348089"
+    },
+    {
+        "NO": "193",
+        "CEK SITE ID": "AO16237255928204N",
+        "CEK NAMA LOKASI": "KANTOR DESA SIDANGA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "083866789696"
+    },
+    {
+        "NO": "194",
+        "CEK SITE ID": "AO16237255918204N",
+        "CEK NAMA LOKASI": "SD NEGERI 173 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082292175114"
+    },
+    {
+        "NO": "195",
+        "CEK SITE ID": "AO16237255908204N",
+        "CEK NAMA LOKASI": "SD NEGERI 20 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081243629564"
+    },
+    {
+        "NO": "196",
+        "CEK SITE ID": "AO16224640248204N",
+        "CEK NAMA LOKASI": "KANTOR DESA LIGUA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085220284338"
+    },
+    {
+        "NO": "197",
+        "CEK SITE ID": "AO16224640188204N",
+        "CEK NAMA LOKASI": "POLINDES MATUTING TANJUNG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081340674209"
+    },
+    {
+        "NO": "198",
+        "CEK SITE ID": "AO16224640148204N",
+        "CEK NAMA LOKASI": "POLINDES FOYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081344198483"
+    },
+    {
+        "NO": "199",
+        "CEK SITE ID": "AO16224640008204N",
+        "CEK NAMA LOKASI": "MADRASAH DINIYAH AWALIYAH ALKHAIRAAT DESA FOYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082218151356"
+    },
+    {
+        "NO": "200",
+        "CEK SITE ID": "AO16224639968204N",
+        "CEK NAMA LOKASI": "KANTOR DESA SUMBER MAKMUR",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "083895599949"
+    },
+    {
+        "NO": "201",
+        "CEK SITE ID": "AO16224639828204N",
+        "CEK NAMA LOKASI": "PUSTU WOSI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082211588890"
+    },
+    {
+        "NO": "202",
+        "CEK SITE ID": "AO16224639728204N",
+        "CEK NAMA LOKASI": "KANTOR DESA TANJUNG JERE",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082296857795"
+    },
+    {
+        "NO": "203",
+        "CEK SITE ID": "AO16224639408204N",
+        "CEK NAMA LOKASI": "KANTOR DESA WOSI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081380219093"
+    },
+    {
+        "NO": "204",
+        "CEK SITE ID": "AO16224639388204N",
+        "CEK NAMA LOKASI": "KANTOR DESA LELEWI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "087726831441"
+    },
+    {
+        "NO": "205",
+        "CEK SITE ID": "AO16224639088204N",
+        "CEK NAMA LOKASI": "SD NEGERI 151 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "085281623595"
+    },
+    {
+        "NO": "206",
+        "CEK SITE ID": "AO16224637228204N",
+        "CEK NAMA LOKASI": "KANTOR DESA DOLIK",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "082396323022"
+    },
+    {
+        "NO": "207",
+        "CEK SITE ID": "AO16224636688204N",
+        "CEK NAMA LOKASI": "SD NEGERI 100 HALMAHERA SELATAN",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. HALMAHERA SELATAN",
+        "NO PIC": "081381384619"
+    },
+    {
+        "NO": "208",
+        "CEK SITE ID": "AM16926927968205N",
+        "CEK NAMA LOKASI": "POS 9 (WAININ)",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082198836781"
+    },
+    {
+        "NO": "209",
+        "CEK SITE ID": "AM16665867678205N",
+        "CEK NAMA LOKASI": "KANTOR BADAN PERMUSYAWARATAN DESA (BPD) DESA WAI IPA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "085271417873"
+    },
+    {
+        "NO": "210",
+        "CEK SITE ID": "AM16576684198205N",
+        "CEK NAMA LOKASI": "SMA NEGERI 11 KEPULAUAN SULA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "081341025154"
+    },
+    {
+        "NO": "211",
+        "CEK SITE ID": "AO16224726308205N",
+        "CEK NAMA LOKASI": "KANTOR KEPALA DESA MAN.GEGA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "081243547292"
+    },
+    {
+        "NO": "212",
+        "CEK SITE ID": "AO16224634378205N",
+        "CEK NAMA LOKASI": "SMP NEGERI 3 SATAP MANGOLI UTARA TIMUR",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "081376024928"
+    },
+    {
+        "NO": "213",
+        "CEK SITE ID": "AO16224632858205N",
+        "CEK NAMA LOKASI": "SD. ALKHAIRAAT SANANA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "085346500678"
+    },
+    {
+        "NO": "214",
+        "CEK SITE ID": "AO16224631538205N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR NEGERI WAILAU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "085397893802"
+    },
+    {
+        "NO": "215",
+        "CEK SITE ID": "AO16224630678205N",
+        "CEK NAMA LOKASI": "KANTOR KEPALA DESA NAFLOW",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082274498172"
+    },
+    {
+        "NO": "216",
+        "CEK SITE ID": "AM16665867378208N",
+        "CEK NAMA LOKASI": "SMA NEGERI 7 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082137396435"
+    },
+    {
+        "NO": "217",
+        "CEK SITE ID": "AM16576862628208N",
+        "CEK NAMA LOKASI": "MTS SWASTA BOBONG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085299791816"
+    },
+    {
+        "NO": "218",
+        "CEK SITE ID": "AM16665869158208N",
+        "CEK NAMA LOKASI": "KANTOR DESA PARIGI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "083838755901"
+    },
+    {
+        "NO": "219",
+        "CEK SITE ID": "AM16665868178208N",
+        "CEK NAMA LOKASI": "IRENE CENTER PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082187561917"
+    },
+    {
+        "NO": "220",
+        "CEK SITE ID": "AM16224731218208N",
+        "CEK NAMA LOKASI": "SMP NEGERI 4 SATU ATAP TALIABU TIMUR",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082190269941"
+    },
+    {
+        "NO": "221",
+        "CEK SITE ID": "AM16224731078208N",
+        "CEK NAMA LOKASI": "SD NEGERI TUBANG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085298383076"
+    },
+    {
+        "NO": "222",
+        "CEK SITE ID": "AM16224731018208N",
+        "CEK NAMA LOKASI": "SD NEGERI BUA MBONO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082191864546"
+    },
+    {
+        "NO": "223",
+        "CEK SITE ID": "AM16224730858208N",
+        "CEK NAMA LOKASI": "SMP NEGERI 4 TALIABU UTARA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082352828684"
+    },
+    {
+        "NO": "224",
+        "CEK SITE ID": "AM16208511288208N",
+        "CEK NAMA LOKASI": "PUSKESMAS TABONA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082260968118"
+    },
+    {
+        "NO": "225",
+        "CEK SITE ID": "AM16199409108208N",
+        "CEK NAMA LOKASI": "KANTOR DESA KATAGA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "0811459948"
+    },
+    {
+        "NO": "226",
+        "CEK SITE ID": "AM16199409068208N",
+        "CEK NAMA LOKASI": "KANTOR DESA HABUNUHA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085256729549"
+    },
+    {
+        "NO": "227",
+        "CEK SITE ID": "AO16224633738205N",
+        "CEK NAMA LOKASI": "SMA NEGERI 12 KEPULAUAN SULA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "081241170399"
+    },
+    {
+        "NO": "228",
+        "CEK SITE ID": "AO16224632818205N",
+        "CEK NAMA LOKASI": "SD INPRES 2 FALABISAHAYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "085240680574"
+    },
+    {
+        "NO": "229",
+        "CEK SITE ID": "AM16224669148205N",
+        "CEK NAMA LOKASI": "SD NEGERI 1 CAPALULU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "081282491554"
+    },
+    {
+        "NO": "230",
+        "CEK SITE ID": "AM16224669068205N",
+        "CEK NAMA LOKASI": "KANTOR DESA PELITA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "081355808077"
+    },
+    {
+        "NO": "231",
+        "CEK SITE ID": "AM16224668988205N",
+        "CEK NAMA LOKASI": "KANTOR KEPALA DESA MINALULI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082185503325"
+    },
+    {
+        "NO": "232",
+        "CEK SITE ID": "AO16224632618205N",
+        "CEK NAMA LOKASI": "SD NEGERI LEKOSULA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082230494457"
+    },
+    {
+        "NO": "233",
+        "CEK SITE ID": "AM16224668868205N",
+        "CEK NAMA LOKASI": "KANTOR KEPALA DESA WAIKAFIA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082187042056"
+    },
+    {
+        "NO": "234",
+        "CEK SITE ID": "AO16224631718205N",
+        "CEK NAMA LOKASI": "SMK NEGERI 3 KEPULAUAN SULA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082310142550"
+    },
+    {
+        "NO": "235",
+        "CEK SITE ID": "AM16224668748205N",
+        "CEK NAMA LOKASI": "KANTOR DESA WAITULIA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "08124840817"
+    },
+    {
+        "NO": "236",
+        "CEK SITE ID": "AM16224668728205N",
+        "CEK NAMA LOKASI": "KANTOR DESA PAS IPA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "085213819661"
+    },
+    {
+        "NO": "237",
+        "CEK SITE ID": "AM16224668608205N",
+        "CEK NAMA LOKASI": "KANTOR KEPALA DESA LELYABA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082188868202"
+    },
+    {
+        "NO": "238",
+        "CEK SITE ID": "AM16224668528205N",
+        "CEK NAMA LOKASI": "KANTOR DESA BUYA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082349221574"
+    },
+    {
+        "NO": "239",
+        "CEK SITE ID": "AM16224668428205N",
+        "CEK NAMA LOKASI": "KANTOR DESA DOFA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082213103360"
+    },
+    {
+        "NO": "240",
+        "CEK SITE ID": "AM16577036888205N",
+        "CEK NAMA LOKASI": "SD NEGERI BARUAKOL",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "081354517548"
+    },
+    {
+        "NO": "241",
+        "CEK SITE ID": "AM16224668308205N",
+        "CEK NAMA LOKASI": "KANTOR DESA MODAPIA",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082297693556"
+    },
+    {
+        "NO": "242",
+        "CEK SITE ID": "AO16224632738205N",
+        "CEK NAMA LOKASI": "SD NEGERI KOU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN SULA",
+        "NO PIC": "082196479490"
+    },
+    {
+        "NO": "243",
+        "CEK SITE ID": "AM16902768188208N",
+        "CEK NAMA LOKASI": "RAUDHATUL ATHFAL AN-NUR ANGGREK FANGAHU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082239657615"
+    },
+    {
+        "NO": "244",
+        "CEK SITE ID": "AM16902768158208N",
+        "CEK NAMA LOKASI": "RAUDATUL ATHFAL (RA) \"KHAIRU UMMAH\"",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082196107650"
+    },
+    {
+        "NO": "245",
+        "CEK SITE ID": "AM16577719608208N",
+        "CEK NAMA LOKASI": "MADRASAH IBTIDAIYAH MUTMAINNAH LIMBO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081218150453"
+    },
+    {
+        "NO": "246",
+        "CEK SITE ID": "AM16665867908208N",
+        "CEK NAMA LOKASI": "SMA NEGERI 2 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082194387435"
+    },
+    {
+        "NO": "247",
+        "CEK SITE ID": "AM16665867498208N",
+        "CEK NAMA LOKASI": "SMA NEGERI 6 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082194719208"
+    },
+    {
+        "NO": "248",
+        "CEK SITE ID": "AM16568473958208N",
+        "CEK NAMA LOKASI": "SMA NEGERI 1 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081382878490"
+    },
+    {
+        "NO": "249",
+        "CEK SITE ID": "AM16567378658208N",
+        "CEK NAMA LOKASI": "SD INPRES KASANGO",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082320324796"
+    },
+    {
+        "NO": "250",
+        "CEK SITE ID": "AM16566950728208N",
+        "CEK NAMA LOKASI": "SMA NEGERI 3 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081244624136"
+    },
+    {
+        "NO": "251",
+        "CEK SITE ID": "AM16566724568208N",
+        "CEK NAMA LOKASI": "SMA NEGERI 5 PULAU TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081242638028"
+    },
+    {
+        "NO": "252",
+        "CEK SITE ID": "AM16566683578208N",
+        "CEK NAMA LOKASI": "SD NEGERI BAWANG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082196821602"
+    },
+    {
+        "NO": "253",
+        "CEK SITE ID": "AM16224773008208N",
+        "CEK NAMA LOKASI": "SMP NEGERI 6 TALIABU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "082293497310"
+    },
+    {
+        "NO": "254",
+        "CEK SITE ID": "AM16224730978208N",
+        "CEK NAMA LOKASI": "KANTOR DESA SALATI",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081343904650"
+    },
+    {
+        "NO": "255",
+        "CEK SITE ID": "AM16208511928208N",
+        "CEK NAMA LOKASI": "RUMAH SAKIT UMUM DAERAH BOBONG",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "081318082412"
+    },
+    {
+        "NO": "256",
+        "CEK SITE ID": "AM16199409028208N",
+        "CEK NAMA LOKASI": "PUSTU BAPENU",
+        "PROVINSI": "MALUKU UTARA",
+        "KABUPATEN/KOTA": "KAB. PULAU TALIABU",
+        "NO PIC": "085342974970"
+    },
+    {
+        "NO": "257",
+        "CEK SITE ID": "AM16199417349111N",
+        "CEK NAMA LOKASI": "KANTOR PEMERINTAH KAMPUNG YUWANAIN",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082121581036"
+    },
+    {
+        "NO": "258",
+        "CEK SITE ID": "AO16224595669103N",
+        "CEK NAMA LOKASI": "SMK NEGERI 2 NIMBORAN",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344870676"
+    },
+    {
+        "NO": "259",
+        "CEK SITE ID": "AM16576869529111N",
+        "CEK NAMA LOKASI": "MADRASAH ALIYAH NEGERI KEEROM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "085244914891"
+    },
+    {
+        "NO": "260",
+        "CEK SITE ID": "AM16576863119111N",
+        "CEK NAMA LOKASI": "MADRASAH TSANAWIYAH AL-MUHTADIN ARSO VI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082399402535"
+    },
+    {
+        "NO": "261",
+        "CEK SITE ID": "AM16315973869103N",
+        "CEK NAMA LOKASI": "SMP N 1 DEMTA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082197717880"
+    },
+    {
+        "NO": "262",
+        "CEK SITE ID": "AM16199457029110N",
+        "CEK NAMA LOKASI": "SMK NEGERI 5 SARMI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. SARMI",
+        "NO PIC": "081252380475"
+    },
+    {
+        "NO": "263",
+        "CEK SITE ID": "AO16340803959111N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG WULUKUBUN",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "085244016843"
+    },
+    {
+        "NO": "264",
+        "CEK SITE ID": "AO16340803919111N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG NARAMBEN",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "085337358893"
+    },
+    {
+        "NO": "265",
+        "CEK SITE ID": "AO16224595089103N",
+        "CEK NAMA LOKASI": "SMP SATU ATAP TARFIA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "085244107607"
+    },
+    {
+        "NO": "266",
+        "CEK SITE ID": "AO16224593289103N",
+        "CEK NAMA LOKASI": "SD YPK NETAR",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082399577352"
+    },
+    {
+        "NO": "267",
+        "CEK SITE ID": "AO16224593269103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR KANDA DISTRIK WAIBU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "08128736126"
+    },
+    {
+        "NO": "268",
+        "CEK SITE ID": "AO16224593409103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR YPK MAMDA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082198006164"
+    },
+    {
+        "NO": "269",
+        "CEK SITE ID": "AO16224593129103N",
+        "CEK NAMA LOKASI": "SD YPK DEKENING",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081343494617"
+    },
+    {
+        "NO": "270",
+        "CEK SITE ID": "AO16224593789103N",
+        "CEK NAMA LOKASI": "SD NEGERI INPRES DOYO LAMA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081247053353"
+    },
+    {
+        "NO": "271",
+        "CEK SITE ID": "AO16224593049103N",
+        "CEK NAMA LOKASI": "SD NEGERI BRASO",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344065300"
+    },
+    {
+        "NO": "272",
+        "CEK SITE ID": "AO16224593029103N",
+        "CEK NAMA LOKASI": "SDN1 SENTANI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082398904420"
+    },
+    {
+        "NO": "273",
+        "CEK SITE ID": "AO16224593009103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR NEGERI KWANSU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081315455948"
+    },
+    {
+        "NO": "274",
+        "CEK SITE ID": "AO16224591769103N",
+        "CEK NAMA LOKASI": "SD YPK BETHESDA MARIBU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082199278591"
+    },
+    {
+        "NO": "275",
+        "CEK SITE ID": "AO16224593689103N",
+        "CEK NAMA LOKASI": "SD YPK KANTUMILENA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082141262401"
+    },
+    {
+        "NO": "276",
+        "CEK SITE ID": "AO16224594149103N",
+        "CEK NAMA LOKASI": "SD YPK WAIBRON",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082217856515"
+    },
+    {
+        "NO": "277",
+        "CEK SITE ID": "AO16224592869103N",
+        "CEK NAMA LOKASI": "SD NEGERI SABRON SAMON",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082129359054"
+    },
+    {
+        "NO": "278",
+        "CEK SITE ID": "AO16224592849103N",
+        "CEK NAMA LOKASI": "SD YPK POBAIM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "085244932498"
+    },
+    {
+        "NO": "279",
+        "CEK SITE ID": "AO16224592789103N",
+        "CEK NAMA LOKASI": "SD NEGERI BUNDRU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082198112961"
+    },
+    {
+        "NO": "280",
+        "CEK SITE ID": "AO16224592769103N",
+        "CEK NAMA LOKASI": "SD KRISTEN PERMATA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344081493"
+    },
+    {
+        "NO": "281",
+        "CEK SITE ID": "AO16224592749103N",
+        "CEK NAMA LOKASI": "SD INPRES SP 1 YAPSI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082334261527"
+    },
+    {
+        "NO": "282",
+        "CEK SITE ID": "AO16224592729103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR SABRON SARI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082199103118"
+    },
+    {
+        "NO": "283",
+        "CEK SITE ID": "AO16224592709103N",
+        "CEK NAMA LOKASI": "SD NEGERI INPRES SIBOI-BOI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081343259565"
+    },
+    {
+        "NO": "284",
+        "CEK SITE ID": "AO16224592669103N",
+        "CEK NAMA LOKASI": "SD PERSIAPAN ABAR",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081213020885"
+    },
+    {
+        "NO": "285",
+        "CEK SITE ID": "AO16224592649103N",
+        "CEK NAMA LOKASI": "SDN INPRES 2 DEMTA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344785986"
+    },
+    {
+        "NO": "286",
+        "CEK SITE ID": "AO16224597429103N",
+        "CEK NAMA LOKASI": "DISTRIK UNURUM GUAY",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082126784377"
+    },
+    {
+        "NO": "287",
+        "CEK SITE ID": "AO16224592589103N",
+        "CEK NAMA LOKASI": "SD INPRES TAJA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081377482516"
+    },
+    {
+        "NO": "288",
+        "CEK SITE ID": "AO16224592569103N",
+        "CEK NAMA LOKASI": "SD YPK AMOS TABLANUSU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082223502139"
+    },
+    {
+        "NO": "289",
+        "CEK SITE ID": "AO16224592489103N",
+        "CEK NAMA LOKASI": "SD YPK DONDAI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081240168355"
+    },
+    {
+        "NO": "290",
+        "CEK SITE ID": "AO16224592449103N",
+        "CEK NAMA LOKASI": "SD INPRES SP 6 YAPSI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082398494825"
+    },
+    {
+        "NO": "291",
+        "CEK SITE ID": "AO16224591729103N",
+        "CEK NAMA LOKASI": "SD NEGERI KENDATE",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082239549067"
+    },
+    {
+        "NO": "292",
+        "CEK SITE ID": "AO16224592389103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR INPRES DOROMENA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344536468"
+    },
+    {
+        "NO": "293",
+        "CEK SITE ID": "AO16224592369103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR INPRES BESUM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082248568974"
+    },
+    {
+        "NO": "294",
+        "CEK SITE ID": "AO16224592329103N",
+        "CEK NAMA LOKASI": "SD INPRES SP 3 YAPSI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082198734501"
+    },
+    {
+        "NO": "295",
+        "CEK SITE ID": "AO16224593429103N",
+        "CEK NAMA LOKASI": "SD NEGERI PUAY",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081247124075"
+    },
+    {
+        "NO": "296",
+        "CEK SITE ID": "AO16224592189103N",
+        "CEK NAMA LOKASI": "SD NEGERI INPRES SABEYAB",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081248065482"
+    },
+    {
+        "NO": "297",
+        "CEK SITE ID": "AO16224594909103N",
+        "CEK NAMA LOKASI": "SMP NEGERI SATU ATAP SABRON SARI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344771585"
+    },
+    {
+        "NO": "298",
+        "CEK SITE ID": "AO16224595229103N",
+        "CEK NAMA LOKASI": "SMA NEGERI 2 SENTANI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082198259169"
+    },
+    {
+        "NO": "299",
+        "CEK SITE ID": "AO16224591269103N",
+        "CEK NAMA LOKASI": "KORAMIL 1701-10 DEPAPRE",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081227202751"
+    },
+    {
+        "NO": "300",
+        "CEK SITE ID": "AO16224592109103N",
+        "CEK NAMA LOKASI": "SD YPK MEREM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081244397348"
+    },
+    {
+        "NO": "301",
+        "CEK SITE ID": "AO16224595049103N",
+        "CEK NAMA LOKASI": "SMPTK SOLAFIDE SABRON",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344602697"
+    },
+    {
+        "NO": "302",
+        "CEK SITE ID": "AO16224592029103N",
+        "CEK NAMA LOKASI": "SD AL-HILAL YAPIS SABRON SARI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344736120"
+    },
+    {
+        "NO": "303",
+        "CEK SITE ID": "AO16224592009103N",
+        "CEK NAMA LOKASI": "SD YPK AMAI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082198309117"
+    },
+    {
+        "NO": "304",
+        "CEK SITE ID": "AO16224591929103N",
+        "CEK NAMA LOKASI": "SDN INPRES IBUB",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "085211475838"
+    },
+    {
+        "NO": "305",
+        "CEK SITE ID": "AO16224591869103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR INPRES SP 5 YAPSI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344340624"
+    },
+    {
+        "NO": "306",
+        "CEK SITE ID": "AO16224591849103N",
+        "CEK NAMA LOKASI": "SDN INPRES KLEUBLOUW",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082197859337"
+    },
+    {
+        "NO": "307",
+        "CEK SITE ID": "AO16224591829103N",
+        "CEK NAMA LOKASI": "SD YPK IFAR BABRONGKO",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082397001635"
+    },
+    {
+        "NO": "308",
+        "CEK SITE ID": "AO16224591809103N",
+        "CEK NAMA LOKASI": "SD NEGERI OMBROB",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082248218081"
+    },
+    {
+        "NO": "309",
+        "CEK SITE ID": "AM16926928469171N",
+        "CEK NAMA LOKASI": "POSAL SKOUW SAE",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KOTA JAYAPURA",
+        "NO PIC": "081222620062"
+    },
+    {
+        "NO": "310",
+        "CEK SITE ID": "AM16576947029171N",
+        "CEK NAMA LOKASI": "MA INTEGRAL HIDAYATULLAH",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KOTA JAYAPURA",
+        "NO PIC": "082137133352"
+    },
+    {
+        "NO": "311",
+        "CEK SITE ID": "AO16224595429103N",
+        "CEK NAMA LOKASI": "SMA 1 NIMBORAN",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082248247883"
+    },
+    {
+        "NO": "312",
+        "CEK SITE ID": "AO16224595169103N",
+        "CEK NAMA LOKASI": "SMP SATU ATAP SEKORI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "08114820180"
+    },
+    {
+        "NO": "313",
+        "CEK SITE ID": "AM16576863279171N",
+        "CEK NAMA LOKASI": "MTS INTEGRAL HIDAYATULLAH",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KOTA JAYAPURA",
+        "NO PIC": "082198229443"
+    },
+    {
+        "NO": "314",
+        "CEK SITE ID": "AM16568539329171N",
+        "CEK NAMA LOKASI": "SD TERANG KASIH BANGSA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KOTA JAYAPURA",
+        "NO PIC": "081357637691"
+    },
+    {
+        "NO": "315",
+        "CEK SITE ID": "AO16224592609103N",
+        "CEK NAMA LOKASI": "SD YPK TABLASUPA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "085244507775"
+    },
+    {
+        "NO": "316",
+        "CEK SITE ID": "AO16224594729103N",
+        "CEK NAMA LOKASI": "SMP NEGERI 1 KEMTUK GRESI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082198458420"
+    },
+    {
+        "NO": "317",
+        "CEK SITE ID": "AM16224748929111N",
+        "CEK NAMA LOKASI": "PUSAT KESEHATAN MASYARAKAT ARSO VI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082162796719"
+    },
+    {
+        "NO": "318",
+        "CEK SITE ID": "AO16340803889111N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG INTAIMELYAN",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082129680876"
+    },
+    {
+        "NO": "319",
+        "CEK SITE ID": "AO16224594669103N",
+        "CEK NAMA LOKASI": "SMP DAFONSORO SENTANI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081343078679"
+    },
+    {
+        "NO": "320",
+        "CEK SITE ID": "AO16224593809103N",
+        "CEK NAMA LOKASI": "SD YPK TARFIA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082239219125"
+    },
+    {
+        "NO": "321",
+        "CEK SITE ID": "AO16224594629103N",
+        "CEK NAMA LOKASI": "SMP SATU ATAP NEGERI DOROMENA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081343071078"
+    },
+    {
+        "NO": "322",
+        "CEK SITE ID": "AO16224594449103N",
+        "CEK NAMA LOKASI": "SMP NEGERI 2 YAPSI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081338170716"
+    },
+    {
+        "NO": "323",
+        "CEK SITE ID": "AO16224594249103N",
+        "CEK NAMA LOKASI": "SD YPK DIAS GLORI SEKORI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "085344507024"
+    },
+    {
+        "NO": "324",
+        "CEK SITE ID": "AO16224594209103N",
+        "CEK NAMA LOKASI": "SD YPK LACH AIROI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082259851040"
+    },
+    {
+        "NO": "325",
+        "CEK SITE ID": "AO16224594169103N",
+        "CEK NAMA LOKASI": "SD YPK GENYEM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082390624336"
+    },
+    {
+        "NO": "326",
+        "CEK SITE ID": "AO16224594069103N",
+        "CEK NAMA LOKASI": "SD NEGERI INPRES SINGGRI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344638144"
+    },
+    {
+        "NO": "327",
+        "CEK SITE ID": "AO16224593949103N",
+        "CEK NAMA LOKASI": "SD NEGERI INPRES 1 DEMTA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082198610812"
+    },
+    {
+        "NO": "328",
+        "CEK SITE ID": "AO16224593869103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR NEGERI INPRES DEPAPRE",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "085254168806"
+    },
+    {
+        "NO": "329",
+        "CEK SITE ID": "AO16224593589103N",
+        "CEK NAMA LOKASI": "SD NEGERI INPRES YANBRA KEMTUK GRESI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081327887072"
+    },
+    {
+        "NO": "330",
+        "CEK SITE ID": "AO16224593489103N",
+        "CEK NAMA LOKASI": "SD NEGERI BRING",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082238365533"
+    },
+    {
+        "NO": "331",
+        "CEK SITE ID": "AM16577061289103N",
+        "CEK NAMA LOKASI": "SMA NEGERI YOKIWA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "‪082198097215"
+    },
+    {
+        "NO": "332",
+        "CEK SITE ID": "AM16566659109103N",
+        "CEK NAMA LOKASI": "SMK NEGERI 4 YAPSI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081248278819"
+    },
+    {
+        "NO": "333",
+        "CEK SITE ID": "AM16926928509102N",
+        "CEK NAMA LOKASI": "POLSEK WAMENA KOTA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082347369729"
+    },
+    {
+        "NO": "334",
+        "CEK SITE ID": "AM16208507849102N",
+        "CEK NAMA LOKASI": "PUSKESMAS WOLLO",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "085233708354"
+    },
+    {
+        "NO": "335",
+        "CEK SITE ID": "AM17397868839501N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG MILIGATNEM",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "0"
+    },
+    {
+        "NO": "336",
+        "CEK SITE ID": "AM17397863099501N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG LANTIPO DISTRIK WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082199374584"
+    },
+    {
+        "NO": "337",
+        "CEK SITE ID": "AM17397852619501N",
+        "CEK NAMA LOKASI": "SD YPPK ST. LUKAS MULIMA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081343491367"
+    },
+    {
+        "NO": "338",
+        "CEK SITE ID": "AM16208507769102N",
+        "CEK NAMA LOKASI": "PUSKESMAS WALELAGAMA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082195934527"
+    },
+    {
+        "NO": "339",
+        "CEK SITE ID": "AM16208507799102N",
+        "CEK NAMA LOKASI": "PUSKESMAS PELEBAGA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082150162866"
+    },
+    {
+        "NO": "340",
+        "CEK SITE ID": "AM16569373899102N",
+        "CEK NAMA LOKASI": "POS BOLAKME",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081347182373"
+    },
+    {
+        "NO": "341",
+        "CEK SITE ID": "AM16208507789102N",
+        "CEK NAMA LOKASI": "PUSKESMAS HUBIKOSI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "085339081498"
+    },
+    {
+        "NO": "342",
+        "CEK SITE ID": "AO16224581979122N",
+        "CEK NAMA LOKASI": "SD NEGERI WARAGAM",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YALIMO",
+        "NO PIC": "081215747381"
+    },
+    {
+        "NO": "343",
+        "CEK SITE ID": "AO16224581939122N",
+        "CEK NAMA LOKASI": "KANTOR PEMERINTAHAN KAMPUNG ALUGI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YALIMO",
+        "NO PIC": "082224347628"
+    },
+    {
+        "NO": "344",
+        "CEK SITE ID": "AM16208507829102N",
+        "CEK NAMA LOKASI": "PUSKESMAS KURULU",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081242832394"
+    },
+    {
+        "NO": "345",
+        "CEK SITE ID": "AM16613618699102N",
+        "CEK NAMA LOKASI": "ASOLOKOBAL",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "085256934102"
+    },
+    {
+        "NO": "346",
+        "CEK SITE ID": "AM16926928519102N",
+        "CEK NAMA LOKASI": "POLSEK KURULU",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082197777850"
+    },
+    {
+        "NO": "347",
+        "CEK SITE ID": "AM16576982499171N",
+        "CEK NAMA LOKASI": "SD NEGERI WOBAREK",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081248463356"
+    },
+    {
+        "NO": "348",
+        "CEK SITE ID": "AM16576848569171N",
+        "CEK NAMA LOKASI": "SD YPPK ST LUKAS WENABUBAGA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081282554517"
+    },
+    {
+        "NO": "349",
+        "CEK SITE ID": "AM17405504809501N",
+        "CEK NAMA LOKASI": "TK YPK PERMATA LACHAI ROI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "0"
+    },
+    {
+        "NO": "350",
+        "CEK SITE ID": "AM17397868829501N",
+        "CEK NAMA LOKASI": "SD TRIESA UNGGUL TERPADU",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "0"
+    },
+    {
+        "NO": "351",
+        "CEK SITE ID": "AM16569373929102N",
+        "CEK NAMA LOKASI": "POS KIMBIM",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081230744226"
+    },
+    {
+        "NO": "352",
+        "CEK SITE ID": "AM16208481629102N",
+        "CEK NAMA LOKASI": "SMP PGRI WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082198536611"
+    },
+    {
+        "NO": "353",
+        "CEK SITE ID": "AM16576979769171N",
+        "CEK NAMA LOKASI": "SD NEGERI TAELA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082311311325"
+    },
+    {
+        "NO": "354",
+        "CEK SITE ID": "AO16224581719122N",
+        "CEK NAMA LOKASI": "SMKS YAPESLI ELELIM",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YALIMO",
+        "NO PIC": "-"
+    },
+    {
+        "NO": "355",
+        "CEK SITE ID": "AM16576858579171N",
+        "CEK NAMA LOKASI": "SD INPRES TAILAREK",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "085233708344"
+    },
+    {
+        "NO": "356",
+        "CEK SITE ID": "AM17397852589501N",
+        "CEK NAMA LOKASI": "GEREJA KATOLIK KRISTUS JAYA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081344607706"
+    },
+    {
+        "NO": "357",
+        "CEK SITE ID": "AO16224581639122N",
+        "CEK NAMA LOKASI": "SD NEGERI HUBLIKI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YALIMO",
+        "NO PIC": "082335554900"
+    },
+    {
+        "NO": "358",
+        "CEK SITE ID": "AM17405504819501N",
+        "CEK NAMA LOKASI": "GEREJA JEMAAT BAHTERA WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082257722778"
+    },
+    {
+        "NO": "359",
+        "CEK SITE ID": "AO16224581599122N",
+        "CEK NAMA LOKASI": "SD NEGERI KEWI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YALIMO",
+        "NO PIC": "082211279266"
+    },
+    {
+        "NO": "360",
+        "CEK SITE ID": "AM17407184959501N",
+        "CEK NAMA LOKASI": "GEREJA JEMAAT BAPTIS PAULUS WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082199327397"
+    },
+    {
+        "NO": "361",
+        "CEK SITE ID": "AO16224581559122N",
+        "CEK NAMA LOKASI": "PAUD HULIKMA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YALIMO",
+        "NO PIC": "081343552221"
+    },
+    {
+        "NO": "362",
+        "CEK SITE ID": "AM16926928529102N",
+        "CEK NAMA LOKASI": "SEKTOR KAWASAN BANDARA WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082398764764"
+    },
+    {
+        "NO": "363",
+        "CEK SITE ID": "AM16926928499102N",
+        "CEK NAMA LOKASI": "POLRES JAYAWIJAYA (SPKT)",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081217189881"
+    },
+    {
+        "NO": "364",
+        "CEK SITE ID": "AM16926928229102N",
+        "CEK NAMA LOKASI": "SATTIS JAYAWIJAYA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081317871533"
+    },
+    {
+        "NO": "365",
+        "CEK SITE ID": "AM16347854429102N",
+        "CEK NAMA LOKASI": "KELURAHAN WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081236517749"
+    },
+    {
+        "NO": "366",
+        "CEK SITE ID": "AO16199456029102N",
+        "CEK NAMA LOKASI": "HALAMAN PUSKESMAS ELEKMA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081313636595"
+    },
+    {
+        "NO": "367",
+        "CEK SITE ID": "AM16576762789102N",
+        "CEK NAMA LOKASI": "POS KURULU",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082137576569"
+    },
+    {
+        "NO": "368",
+        "CEK SITE ID": "AO16224581379122N",
+        "CEK NAMA LOKASI": "KANTOR PEMERINTAHAN KAMPUNG WUTLARIN",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YALIMO",
+        "NO PIC": "081229943350"
+    },
+    {
+        "NO": "369",
+        "CEK SITE ID": "AM17397852599501N",
+        "CEK NAMA LOKASI": "SD YPPK SANTO YAKOBUS HONELAMA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081248771493"
+    },
+    {
+        "NO": "370",
+        "CEK SITE ID": "AM16577013749171N",
+        "CEK NAMA LOKASI": "SD INPRES UMPAKALO",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082175920560"
+    },
+    {
+        "NO": "371",
+        "CEK SITE ID": "AM17397863129501N",
+        "CEK NAMA LOKASI": "TK BINA KASIH JIWIKA KURULU",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "0"
+    },
+    {
+        "NO": "372",
+        "CEK SITE ID": "AM17405504799501N",
+        "CEK NAMA LOKASI": "PENDIDIKAN ANAK USIA DINI PAUD BAPTIS BAHTERA DISTRIK WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082239846249"
+    },
+    {
+        "NO": "373",
+        "CEK SITE ID": "AM17397863089501N",
+        "CEK NAMA LOKASI": "SD YPPK BUNDA MARIA PIKHE",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "0"
+    },
+    {
+        "NO": "374",
+        "CEK SITE ID": "AM16576986929171N",
+        "CEK NAMA LOKASI": "SMP SATU ATAP NEGERI PELEBAGA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "085289958563"
+    },
+    {
+        "NO": "375",
+        "CEK SITE ID": "AM17397868859501N",
+        "CEK NAMA LOKASI": "TAMAN WISATA HUTAN KOTA ISAKUSA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082333411101"
+    },
+    {
+        "NO": "376",
+        "CEK SITE ID": "AM17397868849501N",
+        "CEK NAMA LOKASI": "OBJEK WISATA PEMANCINGAN DAN CAFÉ YOSHUA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "0"
+    },
+    {
+        "NO": "377",
+        "CEK SITE ID": "AM17397863109501N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG  APENAS",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "0"
+    },
+    {
+        "NO": "378",
+        "CEK SITE ID": "AM17397852609501N",
+        "CEK NAMA LOKASI": "SMA YPPGI WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081344119886"
+    },
+    {
+        "NO": "379",
+        "CEK SITE ID": "AM16576450179171N",
+        "CEK NAMA LOKASI": "SD YPPK SINATMA WALESI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082199567285"
+    },
+    {
+        "NO": "380",
+        "CEK SITE ID": "AM16951038209102N",
+        "CEK NAMA LOKASI": "PUSKESMAS WESAPUT",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082378227734"
+    },
+    {
+        "NO": "381",
+        "CEK SITE ID": "AM16208481619102N",
+        "CEK NAMA LOKASI": "SMA PGRI WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082198901011"
+    },
+    {
+        "NO": "382",
+        "CEK SITE ID": "AO16224580279122N",
+        "CEK NAMA LOKASI": "KANTOR PEMERINTAHAN KAMPUNG FIMA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YALIMO",
+        "NO PIC": "082329599763"
+    },
+    {
+        "NO": "383",
+        "CEK SITE ID": "AM17397863119501N",
+        "CEK NAMA LOKASI": "PUSKESMAS  LIBAREK",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "081213504323"
+    },
+    {
+        "NO": "384",
+        "CEK SITE ID": "AM17397852629501N",
+        "CEK NAMA LOKASI": "SD KRISTEN DUMA WAMENA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. JAYAWIJAYA",
+        "NO PIC": "082199902509"
+    },
+    {
+        "NO": "385",
+        "CEK SITE ID": "AM16926928589105N",
+        "CEK NAMA LOKASI": "POLSUBSEKTOR KURUDU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN YAPEN",
+        "NO PIC": "082248571874"
+    },
+    {
+        "NO": "386",
+        "CEK SITE ID": "AM16926928579120N",
+        "CEK NAMA LOKASI": "POLSEK WARTAS",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "081248482263"
+    },
+    {
+        "NO": "387",
+        "CEK SITE ID": "AM16951038209120N",
+        "CEK NAMA LOKASI": "PUSKESMAS BONOI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082199100632"
+    },
+    {
+        "NO": "388",
+        "CEK SITE ID": "AM16569699229120N",
+        "CEK NAMA LOKASI": "POIWAI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "081283881715"
+    },
+    {
+        "NO": "389",
+        "CEK SITE ID": "AM16576890059105N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR INPRES KURUDU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEPULAUAN YAPEN",
+        "NO PIC": "085244521935"
+    },
+    {
+        "NO": "390",
+        "CEK SITE ID": "AO16618184879120N",
+        "CEK NAMA LOKASI": "PUSKESMAS GESA BARU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "081247592951"
+    },
+    {
+        "NO": "391",
+        "CEK SITE ID": "AM16199456379120N",
+        "CEK NAMA LOKASI": "PUSKESMAS PERAWATAN BARAPASI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082196448290"
+    },
+    {
+        "NO": "392",
+        "CEK SITE ID": "AM16199415749120N",
+        "CEK NAMA LOKASI": "BALAI KAMPUNG FONA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082131523855"
+    },
+    {
+        "NO": "393",
+        "CEK SITE ID": "AM16199415729120N",
+        "CEK NAMA LOKASI": "BALAI KAMPUNG SORABI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082311686445"
+    },
+    {
+        "NO": "394",
+        "CEK SITE ID": "AM16199415719120N",
+        "CEK NAMA LOKASI": "BALAI KAMPUNG TAMAKURI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "08525095711"
+    },
+    {
+        "NO": "395",
+        "CEK SITE ID": "AM16199415679120N",
+        "CEK NAMA LOKASI": "BALAI KAMPUNG RAPAMEREI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "085251341847 / 081385868425"
+    },
+    {
+        "NO": "396",
+        "CEK SITE ID": "AM16199415669120N",
+        "CEK NAMA LOKASI": "BALAI KAMPUNG WATIARO",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082189378459"
+    },
+    {
+        "NO": "397",
+        "CEK SITE ID": "AM16199415439120N",
+        "CEK NAMA LOKASI": "BALAI KAMPUNG YOKE",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "0821997622214"
+    },
+    {
+        "NO": "398",
+        "CEK SITE ID": "AM16199415369120N",
+        "CEK NAMA LOKASI": "BALAI KAMPUNG BAUDI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082199303890"
+    },
+    {
+        "NO": "399",
+        "CEK SITE ID": "AM16568474609201N",
+        "CEK NAMA LOKASI": "SD NEGERI 7 KABUPATEN SORONG",
+        "PROVINSI": "PAPUA BARAT DAYA",
+        "KABUPATEN/KOTA": "KAB. SORONG",
+        "NO PIC": "082298957234"
+    },
+    {
+        "NO": "400",
+        "CEK SITE ID": "AM16568286919201N",
+        "CEK NAMA LOKASI": "SD NEGERI 24 ",
+        "PROVINSI": "PAPUA BARAT DAYA",
+        "KABUPATEN/KOTA": "KAB. SORONG",
+        "NO PIC": "085254068465"
+    },
+    {
+        "NO": "401",
+        "CEK SITE ID": "AM16568128779201N",
+        "CEK NAMA LOKASI": "SD NEGERI 6 KABUPATEN SORONG",
+        "PROVINSI": "PAPUA BARAT DAYA",
+        "KABUPATEN/KOTA": "KAB. SORONG",
+        "NO PIC": "082239894910"
+    },
+    {
+        "NO": "402",
+        "CEK SITE ID": "AM16567598579206N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR INPRES STENGKOL 1",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. TELUK BINTUNI",
+        "NO PIC": "085244800202"
+    },
+    {
+        "NO": "403",
+        "CEK SITE ID": "AO16518966169204N",
+        "CEK NAMA LOKASI": "GEREJA KATOLIK TEMINABUAN",
+        "PROVINSI": "PAPUA BARAT DAYA",
+        "KABUPATEN/KOTA": "KAB. SORONG SELATAN",
+        "NO PIC": "085240571074"
+    },
+    {
+        "NO": "404",
+        "CEK SITE ID": "AM16208507459201N",
+        "CEK NAMA LOKASI": "UPTD PUSKESMAS KLAYILI",
+        "PROVINSI": "PAPUA BARAT DAYA",
+        "KABUPATEN/KOTA": "KAB. SORONG",
+        "NO PIC": "081246604388"
+    },
+    {
+        "NO": "405",
+        "CEK SITE ID": "AM16577720829208N",
+        "CEK NAMA LOKASI": "MIS LUQMAN AL HAKIM",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "081390000466"
+    },
+    {
+        "NO": "406",
+        "CEK SITE ID": "AM16577455099208N",
+        "CEK NAMA LOKASI": "RAUDHATUL ATHFAL AL-JANNAH",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "085293446330"
+    },
+    {
+        "NO": "407",
+        "CEK SITE ID": "AM16567580079113N",
+        "CEK NAMA LOKASI": "SD NEGERI 3 DEKAI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "081248735211"
+    },
+    {
+        "NO": "408",
+        "CEK SITE ID": "AO17332848259103N",
+        "CEK NAMA LOKASI": "BALAI KAMPUNG YAUGAPSA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081247874650"
+    },
+    {
+        "NO": "409",
+        "CEK SITE ID": "AO17332848249103N",
+        "CEK NAMA LOKASI": "KANTOR PEMERINTAH DESA ADAT IWON",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081344479989"
+    },
+    {
+        "NO": "410",
+        "CEK SITE ID": "AO17332848239103N",
+        "CEK NAMA LOKASI": "KANTOR PEMERINTAH KAMPUNG YENGGU BARU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "085265966663"
+    },
+    {
+        "NO": "411",
+        "CEK SITE ID": "AO17332848229103N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG BERAB",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082199583942"
+    },
+    {
+        "NO": "412",
+        "CEK SITE ID": "AO16592335179113N",
+        "CEK NAMA LOKASI": "DINAS KEBUDAYAAN PARIWISATA KABUPATEN YAHUKIMO",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "081340951688"
+    },
+    {
+        "NO": "413",
+        "CEK SITE ID": "AO16592288599113N",
+        "CEK NAMA LOKASI": "BAWASLU KABUPATEN YAHUKIMO",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "0821984144144"
+    },
+    {
+        "NO": "414",
+        "CEK SITE ID": "AM17343298469115N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR NEGERI  AWERA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "082258184923"
+    },
+    {
+        "NO": "415",
+        "CEK SITE ID": "AO16515097659115N",
+        "CEK NAMA LOKASI": "POLSUB SEKTOR WAPOGA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "081239261114"
+    },
+    {
+        "NO": "416",
+        "CEK SITE ID": "AO16515084459115N",
+        "CEK NAMA LOKASI": "GEREJA KRISTEN INJILI DI TANAH PAPUA JEMAAT \"BETANIA\" WAPOGA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "081247713132"
+    },
+    {
+        "NO": "417",
+        "CEK SITE ID": "AM16359067229115N",
+        "CEK NAMA LOKASI": "GEREJA BETHEL INDONESIA (GBI) JEMAAT EBENHAZER SARAWANDORI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "082248032638"
+    },
+    {
+        "NO": "418",
+        "CEK SITE ID": "AO16515004889115N",
+        "CEK NAMA LOKASI": "SD YPK BETHANIA WAWERI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "081248584579"
+    },
+    {
+        "NO": "419",
+        "CEK SITE ID": "AO16224592469103N",
+        "CEK NAMA LOKASI": "SD YPK WAMBENA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "082197843312"
+    },
+    {
+        "NO": "420",
+        "CEK SITE ID": "AO16224591649103N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR YPK YEPASE",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "085335018328"
+    },
+    {
+        "NO": "421",
+        "CEK SITE ID": "AO16224594769103N",
+        "CEK NAMA LOKASI": "SMP YPK GENYEM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. JAYAPURA",
+        "NO PIC": "081248583969/ 081385621395"
+    },
+    {
+        "NO": "422",
+        "CEK SITE ID": "AO16199410349208N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR YPK SISIR 1",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "082193830153"
+    },
+    {
+        "NO": "423",
+        "CEK SITE ID": "AM16951038209208N",
+        "CEK NAMA LOKASI": "UPTD PUSKESMAS TUGARNI",
+        "PROVINSI": "Papua Barat",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "081254491027"
+    },
+    {
+        "NO": "424",
+        "CEK SITE ID": "AM16926928689208N",
+        "CEK NAMA LOKASI": "POSPOL LOBO",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "081344098175"
+    },
+    {
+        "NO": "425",
+        "CEK SITE ID": "AM16926928679208N",
+        "CEK NAMA LOKASI": "POLSUBSEKTOR YAMOR",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "082195271643"
+    },
+    {
+        "NO": "426",
+        "CEK SITE ID": "AM16926928669208N",
+        "CEK NAMA LOKASI": "KEPOLISIAN SEKTOR TELUK ETNA",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "081344718882"
+    },
+    {
+        "NO": "427",
+        "CEK SITE ID": "AM16926928659208N",
+        "CEK NAMA LOKASI": "KEPOLISIAN SEKTOR BURUWAY",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "085243256478"
+    },
+    {
+        "NO": "428",
+        "CEK SITE ID": "AM16926928639113N",
+        "CEK NAMA LOKASI": "POS BRIMOB BANDARA",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "082198324604"
+    },
+    {
+        "NO": "429",
+        "CEK SITE ID": "AM17345100729503N",
+        "CEK NAMA LOKASI": "POS CAMAR",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "082199245991"
+    },
+    {
+        "NO": "430",
+        "CEK SITE ID": "AM16926928619113N",
+        "CEK NAMA LOKASI": "POLRES YAHUKIMO",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "082143708707"
+    },
+    {
+        "NO": "431",
+        "CEK SITE ID": "AM16926928539111N",
+        "CEK NAMA LOKASI": "POLSEK WARIS",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082198832001"
+    },
+    {
+        "NO": "432",
+        "CEK SITE ID": "AM16926928219113N",
+        "CEK NAMA LOKASI": "POS MARINIR HALABOK",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "081294707117"
+    },
+    {
+        "NO": "433",
+        "CEK SITE ID": "AM16566692279113N",
+        "CEK NAMA LOKASI": "SD YAPESLI SUELE SUMOHAI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "081248851348"
+    },
+    {
+        "NO": "434",
+        "CEK SITE ID": "AM16347940779115N",
+        "CEK NAMA LOKASI": "SD YPK 1 UREI FAISEI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "085399606879"
+    },
+    {
+        "NO": "435",
+        "CEK SITE ID": "AM16566928969111N",
+        "CEK NAMA LOKASI": "SD NEGERI GUDANG GARAM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "081344377644"
+    },
+    {
+        "NO": "436",
+        "CEK SITE ID": "AM17350417139503N",
+        "CEK NAMA LOKASI": "PUSKESMAS APLIM",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "085232233420"
+    },
+    {
+        "NO": "437",
+        "CEK SITE ID": "AM16359067439115N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG SARAWANDORI SATU",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "082271335973"
+    },
+    {
+        "NO": "438",
+        "CEK SITE ID": "AM16359067389115N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG PANDUAMI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "082325122669"
+    },
+    {
+        "NO": "439",
+        "CEK SITE ID": "AM16359067479115N",
+        "CEK NAMA LOKASI": "PUSTU SARAWANDORI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "082393073956"
+    },
+    {
+        "NO": "440",
+        "CEK SITE ID": "AM16359067279115N",
+        "CEK NAMA LOKASI": "KANTOR KAMPUNG MANAININ",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. WAROPEN",
+        "NO PIC": "082155352987"
+    },
+    {
+        "NO": "441",
+        "CEK SITE ID": "AM16224749939111N",
+        "CEK NAMA LOKASI": "DINAS TENAGA KERJA DAN TRANSMIGRASI KABUPATEN KEEROM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082278464067"
+    },
+    {
+        "NO": "442",
+        "CEK SITE ID": "AM16208482189111N",
+        "CEK NAMA LOKASI": "SD NEGERI INPRES I ARSO 3",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "081344783123"
+    },
+    {
+        "NO": "443",
+        "CEK SITE ID": "AM16224749089111N",
+        "CEK NAMA LOKASI": "PUSKESMAS WARIS",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "081344055837"
+    },
+    {
+        "NO": "444",
+        "CEK SITE ID": "AM16199417269111N",
+        "CEK NAMA LOKASI": "SMA NEGERI 1 ARSO",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082239218496"
+    },
+    {
+        "NO": "445",
+        "CEK SITE ID": "AM16224749049111N",
+        "CEK NAMA LOKASI": "PUSKESMAS SENGGI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082238488596"
+    },
+    {
+        "NO": "446",
+        "CEK SITE ID": "AM16224749029111N",
+        "CEK NAMA LOKASI": "SMP NEGERI 1 SENGGI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082199836479"
+    },
+    {
+        "NO": "447",
+        "CEK SITE ID": "AM16568639069111N",
+        "CEK NAMA LOKASI": "SD INPRES ARSO VII",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "081253075996"
+    },
+    {
+        "NO": "448",
+        "CEK SITE ID": "AM16576863089111N",
+        "CEK NAMA LOKASI": "MTS AL-AZHAR ARSOPURA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082141764338"
+    },
+    {
+        "NO": "449",
+        "CEK SITE ID": "AM16576601329171N",
+        "CEK NAMA LOKASI": "SMA NEGERI MARIKAI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "085354746020"
+    },
+    {
+        "NO": "450",
+        "CEK SITE ID": "AO17045382899120N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR NEGERI MITIWI DISTRIK SAWAI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "081240875400`"
+    },
+    {
+        "NO": "451",
+        "CEK SITE ID": "AM16199417289111N",
+        "CEK NAMA LOKASI": "KANTOR DISTRIK SKANTO ",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "081244617989"
+    },
+    {
+        "NO": "452",
+        "CEK SITE ID": "AM16199417279111N",
+        "CEK NAMA LOKASI": "DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN KEEROM",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082198213407"
+    },
+    {
+        "NO": "453",
+        "CEK SITE ID": "AM16199416989111N",
+        "CEK NAMA LOKASI": "SMA NEGERI 3 WARIS",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082110088451"
+    },
+    {
+        "NO": "454",
+        "CEK SITE ID": "AO16657937259120N",
+        "CEK NAMA LOKASI": "KEPOLISIAN SEKTOR SAWAI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "081261279100"
+    },
+    {
+        "NO": "455",
+        "CEK SITE ID": "AM16576704179171N",
+        "CEK NAMA LOKASI": "SMP.N 1 MARIKAI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "081247353638"
+    },
+    {
+        "NO": "456",
+        "CEK SITE ID": "AM16576761429171N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR NEGERI INPRES BARAPASI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082248381785"
+    },
+    {
+        "NO": "457",
+        "CEK SITE ID": "AO16687703039120N",
+        "CEK NAMA LOKASI": "SD YAYASAN KODECO GESA DISTRIK BENUKI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082125412970"
+    },
+    {
+        "NO": "458",
+        "CEK SITE ID": "AO16659815439120N",
+        "CEK NAMA LOKASI": "POS POLAIRUD TEBA",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. MAMBERAMO RAYA",
+        "NO PIC": "082199535480"
+    },
+    {
+        "NO": "459",
+        "CEK SITE ID": "AM16576410419202N",
+        "CEK NAMA LOKASI": "SD INPRES 52 MANSABURI",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. MANOKWARI",
+        "NO PIC": "082398046256"
+    },
+    {
+        "NO": "460",
+        "CEK SITE ID": "AM16576041599111N",
+        "CEK NAMA LOKASI": "SD NEGERI BOMPAI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "081344782067"
+    },
+    {
+        "NO": "461",
+        "CEK SITE ID": "AM16568658519208N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR INPRES TANGGAROMI",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "082194892523"
+    },
+    {
+        "NO": "462",
+        "CEK SITE ID": "AM16568568499208N",
+        "CEK NAMA LOKASI": "SD NEGERI JARATI",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "081380375310"
+    },
+    {
+        "NO": "463",
+        "CEK SITE ID": "AM16568353489208N",
+        "CEK NAMA LOKASI": "SEKOLAH DASAR YPK IMANUEL LOBO",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "085213672700"
+    },
+    {
+        "NO": "464",
+        "CEK SITE ID": "AM16568036559206N",
+        "CEK NAMA LOKASI": "SD YPPK MERDEY",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. TELUK BINTUNI",
+        "NO PIC": "082197804671"
+    },
+    {
+        "NO": "465",
+        "CEK SITE ID": "AM17345699099206N",
+        "CEK NAMA LOKASI": "KANTOR DISTRIK BABO",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. TELUK BINTUNI",
+        "NO PIC": "085244945253"
+    },
+    {
+        "NO": "466",
+        "CEK SITE ID": "AM16926928669211N",
+        "CEK NAMA LOKASI": "KEPOLISIAN SEKTOR ORANSBARI",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. MANOKWARI SELATAN",
+        "NO PIC": "082293922685"
+    },
+    {
+        "NO": "467",
+        "CEK SITE ID": "AM16567736749212N",
+        "CEK NAMA LOKASI": "SD YPPGI 07 IRAI",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. PEGUNUNGAN ARFAK",
+        "NO PIC": "082397902036"
+    },
+    {
+        "NO": "468",
+        "CEK SITE ID": "AM16567723749208N",
+        "CEK NAMA LOKASI": "SMP NEGERI 1 TELUK ETNA",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. KAIMANA",
+        "NO PIC": "082249259926"
+    },
+    {
+        "NO": "469",
+        "CEK SITE ID": "AM17338217109211N",
+        "CEK NAMA LOKASI": "GEREJA KRISTEN INJILI DI TANAH PAPUA KLASIS RANSIKI JEMAAT SOLAFIDE RANSIKI",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. MANOKWARI SELATAN",
+        "NO PIC": "081234877866"
+    },
+    {
+        "NO": "470",
+        "CEK SITE ID": "AM17338217119211N",
+        "CEK NAMA LOKASI": " GEREJA KRISTEN INJILI DI TANAH PAPUA KLASIS RANSIKI JEMAAT PETRUS ABRESO",
+        "PROVINSI": "PAPUA BARAT",
+        "KABUPATEN/KOTA": "KAB. MANOKWARI SELATAN",
+        "NO PIC": "082198592617"
+    },
+    {
+        "NO": "471",
+        "CEK SITE ID": "AM16567267299113N",
+        "CEK NAMA LOKASI": "SD YAKPESMI DEKAI YAHUKIMO",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "081244534472"
+    },
+    {
+        "NO": "472",
+        "CEK SITE ID": "AM16566958619113N",
+        "CEK NAMA LOKASI": "SEKOLAH MENENGAH PERTAMA (SMP) YAKPESMI MARANATHA DEKAI",
+        "PROVINSI": "PAPUA PEGUNUNGAN",
+        "KABUPATEN/KOTA": "KAB. YAHUKIMO",
+        "NO PIC": "081248586734"
+    },
+    {
+        "NO": "473",
+        "CEK SITE ID": "AM16566695089111N",
+        "CEK NAMA LOKASI": "SD INPRES WAMBES KAMPUNG",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082398455133"
+    },
+    {
+        "NO": "474",
+        "CEK SITE ID": "AM16566672149111N",
+        "CEK NAMA LOKASI": "SD INPRES SAWYATAMI",
+        "PROVINSI": "PAPUA",
+        "KABUPATEN/KOTA": "KAB. KEEROM",
+        "NO PIC": "082143294851"
+    }
+]
